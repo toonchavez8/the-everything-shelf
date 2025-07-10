@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
+                "file": "Japan-dev/Moving-to-Japan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essential Japanese for Software Engineers"
+              "title": "Moving-to-Japan"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
+                "file": "Japan-dev/Moving-to-Japan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Essential Japanese for Software Engineers"
+              "title": "Backlinks for Moving-to-Japan"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "ee07d153544c963d",
   "lastOpenFiles": [
-    "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
+    "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides",
     "Japan-dev/Jobs.md",
     "Welcome.md",
