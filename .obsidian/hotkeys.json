@@ -7,5 +7,17 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
   ]
 }

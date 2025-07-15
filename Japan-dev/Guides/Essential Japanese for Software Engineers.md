@@ -84,30 +84,30 @@ Working as a software engineer in Japan is rewarding but comes with communicatio
 
 ### 📅 Meetings
 
-|Japanese|Pronunciation|English|
-|---|---|---|
-|会議|Kaigi|Formal meeting|
-|打ち合わせ|Uchi-awase|Informal meeting|
-|朝会|Asakai|Morning meeting|
-|計画|Keikaku|Plan|
-|振り返り|Furikaeri|Retrospective|
-|参加|Sanka|Participate|
-|遅れる|Okureru|Be late|
+| Japanese | Pronunciation | English          |
+| -------- | ------------- | ---------------- |
+| 会議       | Kaigi         | Formal meeting   |
+| 打ち合わせ    | Uchi-awase    | Informal meeting |
+| 朝会       | Asakai        | Morning meeting  |
+| 計画       | Keikaku       | Plan             |
+| 振り返り     | Furikaeri     | Retrospective    |
+| 参加       | Sanka         | Participate      |
+| 遅れる      | Okureru       | Be late          |
 
 ---
 
 ### 💻 Programming Terminology
 
-|Japanese|Pronunciation|English|
-|---|---|---|
-|関数|Kansū|Function|
-|定数|Teisū|Constant|
-|変数|Hensū|Variable|
-|配列|Hairetsu|Array|
-|条件|Jōken|Condition|
-|静的|Seiteki|Static|
-|動的|Dōteki|Dynamic|
-|言語|Gengo|Language|
+| Japanese | Pronunciation | English   |
+| -------- | ------------- | --------- |
+| 関数       | Kansū         | Function  |
+| 定数       | Teisū         | Constant  |
+| 変数       | Hensū         | Variable  |
+| 配列       | Hairetsu      | Array     |
+| 条件       | Jōken         | Condition |
+| 静的       | Seiteki       | Static    |
+| 動的       | Dōteki        | Dynamic   |
+| 言語       | Gengo         | Language  |
 
 ---
 
