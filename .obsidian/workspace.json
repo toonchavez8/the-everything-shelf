@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan-dev/Guides/00-Japan-import-guide.md",
+                "file": "HomeServer/N8n/01-Setup-on-prem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Japan-import-guide"
+              "title": "01-Setup-on-prem"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japan-dev/Guides/00-Japan-import-guide.md",
+                "file": "HomeServer/N8n/01-Setup-on-prem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-Japan-import-guide"
+              "title": "Backlinks for 01-Setup-on-prem"
             }
           },
           {
@@ -207,6 +207,9 @@
   "active": "ee07d153544c963d",
   "lastOpenFiles": [
     "Japan-dev/Guides/00-Japan-import-guide.md",
+    "HomeServer/N8n/01-Setup-on-prem.md",
+    "HomeServer/N8n",
+    "HomeServer",
     "Japan-dev/Jobs.md",
     "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
