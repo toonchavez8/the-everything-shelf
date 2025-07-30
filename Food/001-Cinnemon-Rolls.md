@@ -104,9 +104,9 @@
 
 | Ingredient     | Original Amount | Scaled (×1.72)                                                |
 | -------------- | --------------- | ------------------------------------------------------------- |
-| Cream cheese   | 115 g            | **198 g**                                                      |
-| Powdered sugar | 90 g             | **155 g**                                                      |
-| Whole milk     | 45 ml            | **77 ml**                                                      |
+| Cream cheese   | 115 g           | **198 g**                                                     |
+| Powdered sugar | 90 g            | **155 g**                                                     |
+| Whole milk     | 45 ml           | **77 ml**                                                     |
 | Vanilla bean   | 1 bean          | **1.72 beans** → use 1–2 beans depending on intensity desired |
 
 ---

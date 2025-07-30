@@ -21,6 +21,8 @@ Tunnel
 TLS
 Trafik
 Triggers
+Tbsp
+Tightly
 is
 ilimitado
 inmediato
@@ -49,6 +51,7 @@ individual
 integrating
 intensity
 instead
+instant
 your
 you
 yml
@@ -88,6 +91,7 @@ viewers
 video
 videos
 version
+vanilla
 Make
 MXN
 Many
@@ -101,6 +105,7 @@ Manipulation
 Merge
 Models
 Muscovado
+Mix
 of
 or
 own
@@ -121,6 +126,11 @@ ol
 one
 only
 output
+oz
+out
+onto
+once
+oven
 something
 software
 support
@@ -175,6 +185,19 @@ specific
 sugar
 sea
 salt
+stand
+softened
+separate
+set
+speed
+surface
+seconds
+sprinkle
+segments
+smooth
+scraped
+serve
+splash
 try
 this
 the
@@ -209,6 +232,12 @@ their
 them
 testing
 tasks
+tsp
+together
+two
+top
+thick
+temperature
 When
 Working
 Why
@@ -217,6 +246,7 @@ Words
 Will
 Workflow
 Whole
+Whisk
 re
 ready
 rentola
@@ -243,6 +273,11 @@ repository
 restrict
 remote
 rounded
+rise
+rectangle
+roll
+rolls
+room
 delete
 de
 disponible
@@ -282,6 +317,8 @@ delves
 date
 depending
 desired
+dough
+dish
 and
 alquiler
 arrendador
@@ -332,6 +369,9 @@ address
 add
 automation
 articles
+all
+attachment
+across
 make
 mensual
 makes
@@ -358,6 +398,12 @@ machines
 models
 milk
 ml
+mixer
+medium
+mixture
+minutes
+mix
+muscovado
 Casa
 Currency
 Conversion
@@ -414,6 +460,8 @@ explains
 exemplified
 execute
 eggs
+egg
+evenly
 Distrito
 DR
 Developer
@@ -433,6 +481,8 @@ Discord
 Data
 Demonstrating
 Dough
+Dump
+Drizzle
 Nishitama
 Nanika
 No
@@ -487,6 +537,7 @@ Premise
 Prerequisites
 Pinning
 Powdered
+Plop
 habitaciones
 hace
 helps
@@ -501,6 +552,8 @@ how
 handling
 host
 home
+hook
+half
 Aprobado
 Asakai
 Array
@@ -516,6 +569,7 @@ AI
 Automating
 Amount
 All
+Add
 por
 productive
 provides
@@ -554,6 +608,10 @@ ping
 preserve
 publication
 purpose
+plastic
+pan
+preheated
+powdered
 YEN
 Ya
 You
@@ -589,6 +647,8 @@ Security
 Set
 Showing
 Scaled
+Spread
+Slice
 but
 barrier
 basic
@@ -611,6 +671,12 @@ branches
 bean
 beans
 baking
+bowl
+butter
+brown
+bottom
+beat
+blend
 comes
 communication
 challenges
@@ -657,6 +723,12 @@ cloud
 cups
 cheese
 commercial
+cup
+container
+cover
+cinnamon
+cool
+cream
 with
 work
 when
@@ -672,6 +744,10 @@ workflows
 webhooks
 way
 want
+whole
+whisk
+wrap
+while
 language
 long
 learning
@@ -695,6 +771,11 @@ lleva
 lento
 local
 large
+lukewarm
+low
+lightly
+let
+line
 Knowing
 Key
 Know
@@ -720,6 +801,9 @@ guardias
 general
 gete
 guides
+granulated
+greased
+glaze
 Even
 English
 Estimate
@@ -743,6 +827,8 @@ una
 uno
 using
 use
+unsalted
+until
 Learn
 Life
 Language
@@ -758,6 +844,7 @@ Limit
 Line
 LLM
 Let
+Lukewarm
 fluent
 fully
 follow
@@ -784,6 +871,12 @@ fields
 feed
 filter
 flour
+fine
+forks
+floured
+flattening
+filled
+filling
 Often
 One
 Opportunities
@@ -794,6 +887,7 @@ On
 Ollama
 OpenAI
 Original
+Once
 knowing
 ken
 kaizen
@@ -807,6 +901,7 @@ kaigi
 kaihatsu
 katana
 kg
+knead
 Helps
 Honban
 Hens
@@ -816,6 +911,7 @@ Hosting
 HTTPS
 He
 Quality
+Quantity
 Familiarity
 Fix
 Feature
@@ -839,6 +935,7 @@ Ubuntu
 Up
 Used
 Updated
+Using
 Vocabulary
 Variable
 Ve
@@ -855,6 +952,8 @@ Installing
 Integrating
 Ingredient
 Instant
+INSTRUCTIONS
+In
 Bug
 Be
 Bleeping
@@ -863,11 +962,14 @@ Basic
 Butter
 Brown
 Bean
+Blend
+Bake
 Gen
 Gengo
 Gu
 Granulated
 Glaze
+Grease
 jiss
 japon
 que

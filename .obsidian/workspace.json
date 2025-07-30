@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Food/001-Cinnemon-Rolls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "001-Cinnemon-Rolls"
             }
           }
         ],
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Food/001-Cinnemon-Rolls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 001-Cinnemon-Rolls"
             }
           },
           {
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Food/001-Cinnemon-Rolls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 001-Cinnemon-Rolls"
             }
           }
         ],
@@ -208,6 +208,8 @@
   },
   "active": "d78d1d288d0a12d9",
   "lastOpenFiles": [
+    "3D-Printing",
+    "Welcome.md",
     "Love",
     "Travel",
     "Space",
@@ -229,8 +231,6 @@
     "Japan-dev/Guides/00-Japan-import-guide.md",
     "HomeServer/N8n",
     "HomeServer",
-    "Japan-dev/Jobs.md",
-    "Japan-dev/Guides",
-    "Welcome.md"
+    "Japan-dev/Jobs.md"
   ]
 }
