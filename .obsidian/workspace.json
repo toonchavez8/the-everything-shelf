@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Food/002-Banana-Bread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "002-Banana-Bread"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design/01-Pupusas-flyer.md",
+                "file": "Food/002-Banana-Bread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Pupusas-flyer"
+              "title": "002-Banana-Bread"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +181,8 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "journal-calendar"
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           },
           {
@@ -191,17 +191,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design/01-Pupusas-flyer.md",
+                "file": "Food/002-Banana-Bread.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Pupusas-flyer"
+              "title": "Outline of 002-Banana-Bread"
             }
           },
           {
             "id": "c16851b600189d0e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "1ef36a22b075d47e",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -211,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,12 +241,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71eb9e4b69ba47cc",
+  "active": "484e6836aeebca04",
   "lastOpenFiles": [
-    "Design",
     "Welcome.md",
-    "Design/01-Pupusas-flyer.md",
+    "HomeServer/N8n/01-Setup-on-prem.md",
+    "Food/002-Banana-Bread.md",
     "Food/001-Cinnemon-Rolls.md",
+    "Design/01-Pupusas-flyer.md",
+    "Design",
     "3D-Printing",
     "Love",
     "Travel",
@@ -251,11 +263,9 @@
     "Toonchavez.dev/Untitled.md",
     "Toonchavez.dev/001-ClassflowHub",
     "Toonchavez.dev",
-    "HomeServer/N8n/01-Setup-on-prem.md",
     "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
-    "HomeServer/N8n",
     "Japan-dev/Jobs.md"
   ]
 }

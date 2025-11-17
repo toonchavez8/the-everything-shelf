@@ -52,6 +52,8 @@ integrating
 intensity
 instead
 instant
+ingredientes
+incorporar
 your
 you
 yml
@@ -92,6 +94,8 @@ video
 videos
 version
 vanilla
+vainilla
+volver
 Make
 MXN
 Many
@@ -106,6 +110,7 @@ Merge
 Models
 Muscovado
 Mix
+Mantequilla
 of
 or
 own
@@ -131,6 +136,7 @@ out
 onto
 once
 oven
+otro
 something
 software
 support
@@ -198,6 +204,12 @@ smooth
 scraped
 serve
 splash
+sodio
+secos
+sal
+superficie
+sobre
+servir
 try
 this
 the
@@ -238,6 +250,12 @@ two
 top
 thick
 temperature
+tano
+tazas
+taza
+tanos
+taz
+tocar
 When
 Working
 Why
@@ -278,6 +296,7 @@ rectangle
 roll
 rolls
 room
+rejilla
 delete
 de
 disponible
@@ -319,6 +338,9 @@ depending
 desired
 dough
 dish
+derretida
+dorada
+desmoldar
 and
 alquiler
 arrendador
@@ -372,6 +394,9 @@ articles
 all
 attachment
 across
+agregar
+az
+antes
 make
 mensual
 makes
@@ -404,6 +429,16 @@ mixture
 minutes
 mix
 muscovado
+muy
+maduros
+medianos
+machacados
+molde
+mezclar
+mantequilla
+mezcla
+min
+minutos
 Casa
 Currency
 Conversion
@@ -428,6 +463,8 @@ ChatGPT
 Cinnamon
 Cream
 Cheese
+Cantidad
+Canela
 en
 el
 estuvo
@@ -462,6 +499,8 @@ execute
 eggs
 egg
 evenly
+enharinar
+enfriar
 Distrito
 DR
 Developer
@@ -483,6 +522,7 @@ Demonstrating
 Dough
 Dump
 Drizzle
+Dejar
 Nishitama
 Nanika
 No
@@ -538,6 +578,10 @@ Prerequisites
 Pinning
 Powdered
 Plop
+Panqu
+Pl
+Preparaci
+Precalentar
 habitaciones
 hace
 helps
@@ -554,6 +598,11 @@ host
 home
 hook
 half
+horno
+harina
+huevos
+hornear
+hasta
 Aprobado
 Asakai
 Array
@@ -570,6 +619,7 @@ Automating
 Amount
 All
 Add
+Az
 por
 productive
 provides
@@ -612,6 +662,9 @@ plastic
 pan
 preheated
 powdered
+panqu
+peque
+pl
 YEN
 Ya
 You
@@ -649,6 +702,7 @@ Showing
 Scaled
 Spread
 Slice
+Sal
 but
 barrier
 basic
@@ -677,6 +731,10 @@ brown
 bottom
 beat
 blend
+barrita
+bicarbonato
+batir
+bien
 comes
 communication
 challenges
@@ -729,6 +787,10 @@ cover
 cinnamon
 cool
 cream
+cdita
+car
+canela
+centro
 with
 work
 when
@@ -776,6 +838,8 @@ low
 lightly
 let
 line
+leche
+luego
 Knowing
 Key
 Know
@@ -804,6 +868,8 @@ guides
 granulated
 greased
 glaze
+grandes
+glas
 Even
 English
 Estimate
@@ -817,6 +883,8 @@ Entrega
 Either
 Eggs
 Egg
+Engrasar
+Espolvorear
 useful
 ugoki
 up
@@ -845,6 +913,7 @@ Line
 LLM
 Let
 Lukewarm
+Leche
 fluent
 fully
 follow
@@ -877,6 +946,7 @@ floured
 flattening
 filled
 filling
+firme
 Often
 One
 Opportunities
@@ -888,6 +958,7 @@ Ollama
 OpenAI
 Original
 Once
+Opcional
 knowing
 ken
 kaizen
@@ -910,6 +981,8 @@ How
 Hosting
 HTTPS
 He
+Harina
+Huevos
 Quality
 Quantity
 Familiarity
@@ -941,6 +1014,8 @@ Variable
 Ve
 Verify
 Vanilla
+Vainilla
+Verter
 Implementation
 Improvement
 Information
@@ -954,6 +1029,8 @@ Ingredient
 Instant
 INSTRUCTIONS
 In
+Ingredientes
+Ingrediente
 Bug
 Be
 Bleeping
@@ -964,6 +1041,10 @@ Brown
 Bean
 Blend
 Bake
+Banana
+Bread
+Bicarbonato
+Batir
 Gen
 Gengo
 Gu
