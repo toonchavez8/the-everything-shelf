@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/002-Banana-Bread.md",
+                "file": "Food/Pregnancy-cooking/001-Dieta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002-Banana-Bread"
+              "title": "001-Dieta"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food/002-Banana-Bread.md",
+                "file": "Food/001-Cinnemon-Rolls.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002-Banana-Bread"
+              "title": "Outline of 001-Cinnemon-Rolls"
             }
           },
           {
@@ -243,10 +243,12 @@
   },
   "active": "484e6836aeebca04",
   "lastOpenFiles": [
-    "Welcome.md",
-    "HomeServer/N8n/01-Setup-on-prem.md",
-    "Food/002-Banana-Bread.md",
     "Food/001-Cinnemon-Rolls.md",
+    "Food/Pregnancy-cooking/001-Dieta.md",
+    "Food/Pregnancy-cooking",
+    "Food/002-Banana-Bread.md",
+    "HomeServer/N8n/01-Setup-on-prem.md",
+    "Welcome.md",
     "Design/01-Pupusas-flyer.md",
     "Design",
     "3D-Printing",
@@ -262,7 +264,6 @@
     "HomeServer/Untitled.md",
     "Toonchavez.dev/Untitled.md",
     "Toonchavez.dev/001-ClassflowHub",
-    "Toonchavez.dev",
     "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
