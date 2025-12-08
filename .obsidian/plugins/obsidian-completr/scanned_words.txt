@@ -59,12 +59,16 @@ instead
 instant
 internal
 item
+instalamos
+instalan
+instalados
 your
 you
 yml
 yeast
 yolk
 yolks
+ya
 new
 note
 not
@@ -89,6 +93,8 @@ name
 number
 nodes
 nearest
+necesario
+necesita
 vault
 vocabulary
 viajar
@@ -122,6 +128,7 @@ Match
 Multiple
 Mark
 Missing
+Mx
 of
 or
 own
@@ -154,6 +161,8 @@ our
 order
 optional
 ordered
+os
+ofrecerle
 something
 software
 support
@@ -238,6 +247,13 @@ suggests
 showing
 sequenceDiagram
 shares
+sistema
+solucionar
+son
+suavizar
+sarro
+suavizador
+sistemas
 try
 this
 the
@@ -285,6 +301,8 @@ totals
 table
 these
 they
+tenemos
+tener
 When
 Working
 Why
@@ -296,6 +314,7 @@ Whole
 Whisk
 Who
 Warning
+Water
 re
 ready
 rentola
@@ -335,6 +354,7 @@ reduce
 rest
 rules
 round
+requiera
 delete
 de
 disponible
@@ -381,6 +401,8 @@ details
 discrepancies
 dessert
 does
+depende
+descuento
 and
 alquiler
 arrendador
@@ -443,6 +465,9 @@ allowing
 apps
 assigned
 amount
+agua
+activado
+adicional
 make
 mensual
 makes
@@ -483,6 +508,9 @@ meal
 meals
 mismatch
 matching
+muy
+mantenimientos
+menos
 Casa
 Currency
 Conversion
@@ -568,6 +596,10 @@ export
 employees
 extra
 employee
+etapas
+es
+eliminar
+estar
 Distrito
 DR
 Developer
@@ -670,6 +702,8 @@ Pizza
 Pool
 Pupusas
 Pupusa
+Para
+Purific
 habitaciones
 hace
 helps
@@ -688,6 +722,7 @@ hook
 half
 happen
 highlights
+hacen
 Aprobado
 Asakai
 Array
@@ -770,6 +805,9 @@ pizza
 pooled
 participant
 per
+primeros
+profundo
+podemos
 YEN
 Ya
 You
@@ -821,6 +859,8 @@ Sum
 Share
 Sabor
 Saz
+Sitra
+Si
 but
 barrier
 basic
@@ -854,6 +894,8 @@ below
 birthdays
 bill
 birthday
+bien
+bastantes
 comes
 communication
 challenges
@@ -922,6 +964,13 @@ chosen
 cakes
 combined
 corrections
+cotizacion
+completamente
+cristalina
+carb
+cada
+costo
+comento
 with
 work
 when
@@ -975,6 +1024,9 @@ line
 listed
 link
 las
+limpia
+lecho
+le
 Knowing
 Key
 Know
@@ -1060,6 +1112,7 @@ Let
 Lukewarm
 Lunch
 Link
+Los
 fluent
 fully
 follow
@@ -1099,6 +1152,8 @@ food
 fair
 future
 flagged
+filtros
+forma
 Often
 One
 Opportunities
@@ -1118,6 +1173,7 @@ Order
 Option
 Organizer
 Oversees
+Ok
 knowing
 ken
 kaizen
@@ -1142,6 +1198,7 @@ HTTPS
 He
 Quality
 Quantity
+Quedar
 Familiarity
 Fix
 Feature
@@ -1161,6 +1218,7 @@ Features
 Flag
 Final
 Flyer
+Fortin
 Use
 Update
 Uchi

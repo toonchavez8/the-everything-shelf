@@ -3,7 +3,7 @@
 Ok muy bien, tenemos sistema
 
 
-##s de 1 a 3 etapas, depende el problema que se requiera solucionar son los filtros que instalamos
+s de 1 a 3 etapas, depende el problema que se requiera solucionar son los filtros que instalamos
 Para tener agua completamente limpia y cristalina es necesario los primeros 2 filtros de lecho profundo y carbón activado
 Si necesita suavizar el agua (eliminar sarro) se instalan los 3 filtros
 
