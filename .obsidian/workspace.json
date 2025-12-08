@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Toonchavez.dev/02-MicroSass/00-CleckStack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "00-CleckStack"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Toonchavez.dev/02-MicroSass/00-CleckStack.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 00-CleckStack"
             }
           }
         ],
@@ -195,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,9 +209,11 @@
   },
   "active": "484e6836aeebca04",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Toonchavez.dev/02-MicroSass/00-CleckStack.md",
+    "Toonchavez.dev/02-MicroSass",
     "Food/001-Cinnemon-Rolls.md",
     "3D-Printing",
-    "Welcome.md",
     "Love",
     "Travel",
     "Space",
@@ -229,7 +232,6 @@
     "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
-    "HomeServer/N8n",
     "Japan-dev/Jobs.md"
   ]
 }
