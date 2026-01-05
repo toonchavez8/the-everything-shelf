@@ -25,14 +25,12 @@
             "id": "484e6836aeebca04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Home/01-Cotizaciones-agua.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Pregnancy/JS114606-66023835-074003.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01-Cotizaciones-agua"
+              "icon": "lucide-file-text",
+              "title": "JS114606-66023835-074003"
             }
           }
         ],
@@ -177,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home/01-Cotizaciones-agua.md",
+                "file": "Love/Pregnancy/JS114606-66023835-074003.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Cotizaciones-agua"
+              "title": "Outline of JS114606-66023835-074003"
             }
           }
         ],
@@ -209,8 +207,12 @@
   },
   "active": "484e6836aeebca04",
   "lastOpenFiles": [
-    "HomeServer/N8n/01-Setup-on-prem.md",
+    "Love/Pregnancy/JS113204-65502835-024858.pdf",
+    "Love/Pregnancy/Chopo-CULTIVO DE EXUDADO CERVICOVAGINAL.pdf",
+    "Love/Pregnancy/JS114606-66023835-074003.pdf",
     "Home/01-Cotizaciones-agua.md",
+    "Love/Pregnancy",
+    "HomeServer/N8n/01-Setup-on-prem.md",
     "Home/assets/Pasted image 20251208165029.png",
     "Home/pdfs/Cotizacion Sistema de Purificacion Nutritech FILHOU10  Miguel Chavez.pdf",
     "Home/pdfs/Cotizacion Sistema de Filtracion toda la casa Carico Ultratech 500SS  Miguel Chavez.pdf",
@@ -218,10 +220,6 @@
     "Home/pdfs/Presentacion El Agua que Bebe Carico Nutritech.pdf",
     "Home/pdfs/Ficha Tecnica Filtro Toda la Casa ULTRA-TECH (1).pdf",
     "Home/pdfs/Ficha Tecnica Filtro Toda la Casa ULTRA-TECH.pdf",
-    "Home/pdfs/Ficha Tecnica Carico 10 (1).pdf",
-    "Home/pdfs/Ficha Tecnica Carico 10.pdf",
-    "Home/pdfs/Cotizacion Sistema de Filtracion toda la casa Carico Ultratech 500SS  Miguel Chavez (1).pdf",
-    "Home/pdfs/Cotizacion Sistema de Purificacion Nutritech FILHOU10  Miguel Chavez (1).pdf",
     "Home/assets/Pasted image 20251208163051.png",
     "Home/assets/Pasted image 20251208162638.png",
     "Design/01-Pupusas-flyer.md",
