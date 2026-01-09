@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan-dev/Jobs.md",
+                "file": "Japan-dev/001-Comprehensive-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jobs"
+              "title": "001-Comprehensive-guide"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japan-dev/Jobs.md",
+                "file": "Japan-dev/001-Comprehensive-guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jobs"
+              "title": "Outline of 001-Comprehensive-guide"
             }
           }
         ],
@@ -192,8 +192,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d78d1d288d0a12d9",
+  "active": "ee07d153544c963d",
   "lastOpenFiles": [
+    "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
+    "Japan-dev/001-Comprehensive-guide.md",
+    "Japan-dev/Guides/00-Japan-import-guide.md",
+    "Japan-dev/Jobs.md",
     "Love/Pregnancy/ULTRASONIDO (1).pdf",
     "Love/Pregnancy/LABORATORIO (1).pdf",
     "Love/Pregnancy/JS114606-66023835-074003.pdf",
@@ -204,13 +208,11 @@
     "Love",
     "Home/pdfs/Ficha Tecnica Carico 10.pdf",
     "Home/pdfs/Presentacion El Agua que Bebe Carico Nutritech.pdf",
-    "Home/pdfs/Sitra-ficha-tech.pdf",
     "Home/assets/Pasted image 20251208165029.png",
     "Home/assets/Pasted image 20251208163051.png",
     "Home/assets/Pasted image 20251208162638.png",
     "Home/01-Cotizaciones-agua.md",
     "Japan-dev/Moving-to-Japan.md",
-    "Japan-dev/Jobs.md",
     "HomeServer/N8n/01-Setup-on-prem.md",
     "spliter.md",
     "Design/01-Pupusas-flyer.md",
@@ -226,8 +228,6 @@
     "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
     "Untitled.md",
     "HomeServer/Untitled.md",
-    "Toonchavez.dev/Untitled.md",
-    "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
-    "Japan-dev/Guides/00-Japan-import-guide.md"
+    "Toonchavez.dev/Untitled.md"
   ]
 }
