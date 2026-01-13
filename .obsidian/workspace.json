@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan-dev/001-Comprehensive-guide.md",
+                "file": "Toonchavez.dev/Ai-presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001-Comprehensive-guide"
+              "title": "Ai-presentation"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japan-dev/001-Comprehensive-guide.md",
+                "file": "Toonchavez.dev/Ai-presentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001-Comprehensive-guide"
+              "title": "Outline of Ai-presentation"
             }
           }
         ],
@@ -194,8 +194,10 @@
   },
   "active": "ee07d153544c963d",
   "lastOpenFiles": [
-    "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
+    "Toonchavez.dev/spliter.md",
+    "Toonchavez.dev/Ai-presentation.md",
     "Japan-dev/001-Comprehensive-guide.md",
+    "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
     "Japan-dev/Jobs.md",
     "Love/Pregnancy/ULTRASONIDO (1).pdf",
@@ -214,9 +216,7 @@
     "Home/01-Cotizaciones-agua.md",
     "Japan-dev/Moving-to-Japan.md",
     "HomeServer/N8n/01-Setup-on-prem.md",
-    "spliter.md",
     "Design/01-Pupusas-flyer.md",
-    "Toonchavez.dev/spliter.md",
     "Toonchavez.dev/02-MicroSass/00-CleckStack.md",
     "conflict-files-obsidian-git.md",
     "Food/Pregnancy-cooking/001-Dieta.md",
@@ -227,7 +227,6 @@
     "Pasted image 20250730095628.png",
     "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
     "Untitled.md",
-    "HomeServer/Untitled.md",
-    "Toonchavez.dev/Untitled.md"
+    "HomeServer/Untitled.md"
   ]
 }
