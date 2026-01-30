@@ -230,3 +230,16 @@ El mantenimiento del Aquamaster se realiza cada año. Consiste en cambiar las me
 https://inwater.com.mx/?gad_campaignid=23093643259&gbraid=0AAAAApYUipwv8EWLmDan1qhXu2xBW3dHI#servicios
 
 	+52 1 33 2824 5019
+
+![[Pasted image 20260130122753.png]]
+Tengo este tipo d e filtros que van después del sistema de presión para antes de entrar el agua a tu casa ya esté filtrada
+
+Son tres filtros zeolita carbón activado y el Suavisador para el sarro
+
+Si mire es libre de mantenimiento solo el suavisador lleva sal en pellets seria vaciarle un costal cada mes aprox y le duran de 3-5 años despues de ese tiempo se cambia la media filtrante
+
+De los filtros , tienen una valvbula que hace que hagan un retrolavado y siga filtrando mandano lo sucio al drenaje
+
+**El costo de los tres filtros es de $24,600.00 mas instalacion y mano de obra eso lo determinaria despues de una revision en su domicilio**
+
+El costo de revision es de 350 nos ponemos de acuerdo el dia y la hora en la agenda y pasamos a la revision ya si autoriza se le toman a cuenta
