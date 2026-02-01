@@ -4,7 +4,7 @@ Overview
 
 Our company frequently places group food orders. Currently, we manually compare the receipt against our internal order list, then split the total among coworkers. This process is slow, error-prone, and confusing when handling exceptions like birthdays or shared items.
 
-The Bill Splitter App will simplify this by allowing users to upload a receipt, match items with coworkers, and automatically calculate each person’s share.
+The Bill Splitter App will simplify this by allowing users to upload a receipt, match items with coworkers, and automatically calrson’s share.
 
 
 ---

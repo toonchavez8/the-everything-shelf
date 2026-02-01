@@ -59,4 +59,187 @@ Diametro: 30 Cms
 | Sitra. Mx                  | $29,701                                                        |                               | Incluida            |                                                                                                                                                                                                                       |                                                          |
 | Purific Water              | Quieren venir a ver la casa para cotizar<br><br>+- **$35,000** | 30 cm de profundidad x 150 cm | Incluida al cotizar | Con las válvulas automáticas solo tendrás que preocuparte por mantener el tanque de salmuera con sacos de sal en pellets. Cada saco cuesta aproximadamente $200 con 20 kilos <br>Y necesitas 4 kilos cada retrolavado | Estos filtros se cambian cada 5 a 8 años aproximadamente |
 
+## AGUAFICER
 
+https://www.facebook.com/avoclean/
+
+💧 Inicia bien el Año ⚡
+20% Descuento en tu Tren de Filtración
+O
+10% Descuento en Filtro Multimedia o Suavizante
+
+![[Pasted image 20260130113047.png]]
+____
+¿Qué notas en tu agua 1-2-3?😕
+
+1- ¿Amarillenta, mal olor, se ve turbia o con Sedimentos? 😰
+
+Tu Solucion es👇
+✅ Un Filtro Multimedia
+Con Válvula Manual 
+De $8,999 a solo $8,100
+-----------
+2- ¿Agua con Sarro , tuberías o regaderas tapadas, Piel y cabello resecos?🚿💦
+
+Tu Solución es 👇
+✅ Un filtro Suavizante
+Con Válvula Automática 
+De $13,999 a $12,600
+-------
+3-  Tienes Agua Sucia, Sedimentos y Además mucho Sarro?😰💧
+
+Tu Solución es 👇
+✅ Un tren de Filtración
+Con una válvula automática y una manual 
+De $21,999 a solo $17,600
+
+Con 2 válvulas Automáticas
+$20,600
+--------------
+✅Todos incluyen Limpieza de 
+Tinaco e Instalación 
+---------
+Válido Todo Enero 
+---------
+Con gusto te asesoro para elegir el filtro ideal para tu casa o negocio. 🚿
+
+
+Para su mantenimiento 💦
+
+Contamos con 2 opciones 
+Equipos con 
+ -Valvula manual (Incluído)
+ -Valvula Automática 📟(X $3000)
+
+En la opción manual el mantenimiento se realiza moviendo una manija cada 7 días 
+A esto le llamamos retrolavado 
+
+En la opción automática 
+Se programa la válvula y prácticamente no tienes que realizar ningún movimiento
+-------
+El mantenimiento General 👷🏻‍♂️
+Es el cambio de elementos filtrantes 🚰
+El cual es cada dos años aprox 
+$1599 precio Actual 
+
+La duración de estos varea Según el grado de suciedad de su agua 💧
+
+
+## AQSI 
+
+	+52 1 33 3383 8299
+	
+https://www.aqsi.com.mx/?gad_campaignid=22908267016&gbraid=0AAAABA3vlkP4hmHe37JD2hRV9lPL32i6M
+
+![[Pasted image 20260129173909.png]]
+
+Un filtro suavizador sirve para eliminar la dureza del agua, es decir, el exceso de minerales como calcio y magnesio, que son los que provocan sarro.
+
+
+El filtro trabaja de la sigueinte manera:
+-El agua dura entra al tanque
+-El agua pasa por el tanque que contiene una resina suavizadora 
+
+Intercambio iónico
+La resina atrapa el calcio y magnesio del agua y los intercambia por sodio.
+ Resultado: agua más suave, sin sarro.
+
+Agua suavizada a tu instalación
+El agua ya suavizada sale hacia regaderas, lavabos, calentador, tuberías, etc.
+
+Regeneración automática con sal
+Cuando la resina se satura, el equipo hace un lavado automático usando agua con sal (del tanque salmuera).
+Esto “limpia” la resina y la deja lista para seguir trabajando.
+
+Mantenimiento de filtros de 1 p 3:🛠️
+* Suavizador: Cada 3 años con un costo aproximado $3,480
+## FILTRATEC
+
+	+52 1 33 2356 0485
+
+El equipo Retiene partículas suspendidas de hasta 5 micras y elimina color, olor y sabor en el agua.
+
+El precio publicado ya incluye instalación en el area del medidor del agua.
+
+Se requiere agua con presión mínima a 20 psi para que el filtro se lave adecuadamente.
+
+No requiere luz eléctrica.
+
+**El mantenimiento se realiza cada año con un costo de 3,100.**
+
+
+![[Pasted image 20260129175335.png]]
+https://www.filtratec.mx/
+
+![[Pasted image 20260129175346.png]]
+
+
+
+Ok, con gusto, mira ahorita te voy a enviar la ficha de la válvula, te comento
+Nuestras equipos, no son chinos, son americanos, están hechos en Tucson Arizona, y
+También la ficha técnica de la recina del tanque y de la válvula, porque se
+Ensambla el equipo de esa manera, los costos de mantenimiento, pues unas
+Recinas normalmente duran unos cinco años y hay que estar necesitando nada más
+Sal para regenerar el suavisador, depende mucho la duresa que tú tengas, pero
+Probablemente en promedio se ha de 1 a 2 sacos mensuales, el saco cuesta
+220 pesos, hay que estar lechando este sal al suavisador para que se
+Regenerate, la recina.
+
+Suavisador 9900
+Filtro mixto
+Filtro mixto y suavisador 16,999
+
+En el caso del filtro mixto se cambia cada año la media filtrante por orden del fabricante.
+
+Tiene costo se 3,100 pesos
+## FIRESSA 
+
+	+52 1 33 1989 2319
+
+https://firessa.com/sector-hogar/
+![[22466-MIGUEL CHAVEZ.PDF]]
+
+
+Esta no cuenta con mano de obra, ya que se tendría que revisar el lugar para determinar los materiales necesarios
+
+La cotizacion son tres equipos, los cuales te ayudaran a eliminar sedimentos, color, olor y sabor y la parte del sarro
+
+Se requiere un lugar plano , con tres contactos eléctricos y hay una presión mínima de 20 psi
+
+Los equipos tienen un tiempo de vida alto, solo se hace el cambio de los medios filtrantes (la parte interna) y esta es cada 18 a 24 meses
+![[COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua.pdf]]
+**Los mantenimientos en promedio es de $8,000 pesos pero cada 18 a 24 meses**
+## ECOVITA
+
+El Aquamaster es un Sistema Central de Purificación de Agua que se instala en el punto de entrada de Agua de la casa, y proporciona agua purificada y lista para beber, en todas las llaves de su casa.  Consta de:
+
+1.- Filtro Multimedia (Zeolita y Carbón Activado) que retiene sedimentos y contaminantes orgánicos
+2.- Suavizador de Agua, que elimina las sales disueltas en el agua que ocasionan la dureza
+3.- Lámpara de Luz Ultravioleta que esteriliza el 99.99% de los microorganismos presentes en el agua
+
+El mantenimiento consiste en cambiar cada año las medias filtrantes (Zeolita, Carbón Activado y Resina), así como el bulbo de la lámpara ultravioleta.  Adicionalmente al suavizador se le debe agregar Sal en Pellets, la cual la necesita para realizar su proceso de regeneración. 1 saco de Sal en Pellets dura alrededor de 1 mes y medio.
+
+![[AQUAMASTER - Sistema Central de Purificacion de Agua - Folleto.pdf]]
+https://www.ecovita.mx/purificadores-de-agua
+
+Ok, el sistema que requiere es el de 1.0 pie cúbico, y **el precio es de $27,100 pesos**. Ya incluye la instalación en el área metropolitana de Guadalajara.
+
+El mantenimiento del Aquamaster se realiza cada año. Consiste en cambiar las medias filtrante (Zeolita, Carbón Actuvado y Resina) así como el bulbo ultravioleta.  Adicionalmente hay que mantener con sal el tanque de salmuera. Consume alrededor de 1 saco de sal cada mes y medio.  El costo del saco de sal es de $390 pesos y el costo del mantenimiento anual es de $4,200 pesos.
+## InWater
+
+https://inwater.com.mx/?gad_campaignid=23093643259&gbraid=0AAAAApYUipwv8EWLmDan1qhXu2xBW3dHI#servicios
+
+	+52 1 33 2824 5019
+
+![[Pasted image 20260130122753.png]]
+Tengo este tipo d e filtros que van después del sistema de presión para antes de entrar el agua a tu casa ya esté filtrada
+
+Son tres filtros zeolita carbón activado y el Suavisador para el sarro
+
+Si mire es libre de mantenimiento solo el suavisador lleva sal en pellets seria vaciarle un costal cada mes aprox y le duran de 3-5 años despues de ese tiempo se cambia la media filtrante
+
+De los filtros , tienen una valvbula que hace que hagan un retrolavado y siga filtrando mandano lo sucio al drenaje
+
+**El costo de los tres filtros es de $24,600.00 mas instalacion y mano de obra eso lo determinaria despues de una revision en su domicilio**
+
+El costo de revision es de 350 nos ponemos de acuerdo el dia y la hora en la agenda y pasamos a la revision ya si autoriza se le toman a cuenta
