@@ -24,7 +24,7 @@ A lo que nos referimos con un sistema automático es para el mantenimiento de lo
 Estos se pueden hacer manualmente que son cada 2 o 5 días o podemos dejar una válvula como la que te muestro en la imagen que lo hace de forma automática y se programa generalmente en las madrugadas
 
 
-> Tienen una opcion de recubremiento para el sol para que no tengamos que construri un closet
+> Tienen una opción de recubrimiento para el sol para que no tengamos que construir un closet
 
 
 ![[Pasted image 20251208165029.png]]

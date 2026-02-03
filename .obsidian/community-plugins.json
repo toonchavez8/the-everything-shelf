@@ -10,5 +10,7 @@
   "obsidian-style-settings",
   "obsidian-pandoc",
   "currency-converter",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "simple-table-math",
+  "sheet-plus"
 ]
