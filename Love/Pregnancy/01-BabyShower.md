@@ -26,7 +26,8 @@
 | 17  | Aldo             | Amigos     | 100                           |            |
 | 18  | Gama             | Amigos     | 80                            |            |
 | 19  | Nat (novia gama) | Amigos     | 80                            |            |
-| 21  | Leo              | Amigos     | 80                            |            |
+| 21  | Leo              | Amigos     | 80                            | Confirmado |
+| 22  | Paco             | Amigos     | 80                            | Confirmado |
 
 ### Invitados Cristy <3
 
