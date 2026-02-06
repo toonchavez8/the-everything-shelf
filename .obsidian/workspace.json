@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Ai-presentation"
             }
+          },
+          {
+            "id": "6c7719f15dd6fd2c",
+            "type": "leaf",
+            "state": {
+              "type": "excel-pro-view",
+              "state": {
+                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
+              },
+              "icon": "lucide-file",
+              "title": "Baby-Shower-Sheet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Toonchavez.dev/Ai-presentation.md",
+                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ai-presentation"
+              "title": "Outline of Baby-Shower-Sheet"
             }
           }
         ],
@@ -208,12 +220,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a2669c5e5c01959c",
+  "active": "6c7719f15dd6fd2c",
   "lastOpenFiles": [
+    "Toonchavez.dev/Ai-presentation.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
+    "conflict-files-obsidian-git.md",
+    "Toonchavez.dev/assets/Pasted image 20260205164945.png",
+    "Toonchavez.dev/assets/Pasted image 20260205164858.png",
+    "Toonchavez.dev/assets",
     "Love/Pregnancy/01-BabyShower.md",
     "Home/01-Cotizaciones-agua.md",
-    "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Estudios/ULTRASONIDO (1).pdf",
     "Love/Pregnancy/Estudios/LABORATORIO (1).pdf",
     "Love/Pregnancy/Estudios/JS114606-66023835-074003.pdf",
@@ -227,9 +243,7 @@
     "Home/assets/Pasted image 20260130113047.png",
     "Home/assets/Pasted image 20260129175346.png",
     "Home/assets/Pasted image 20260129175335.png",
-    "Home/pdfs/22466-MIGUEL CHAVEZ.PDF",
     "Home/assets/Pasted image 20260129173909.png",
-    "Toonchavez.dev/Ai-presentation.md",
     "Home/assets/Pasted image 20260129173231.png",
     "Toonchavez.dev/spliter.md",
     "Japan-dev/001-Comprehensive-guide.md",
@@ -238,7 +252,6 @@
     "Japan-dev/Jobs.md",
     "Home/assets/Pasted image 20251208165029.png",
     "Home/assets/Pasted image 20251208163051.png",
-    "Home/assets/Pasted image 20251208162638.png",
     "Japan-dev/Moving-to-Japan.md",
     "HomeServer/N8n/01-Setup-on-prem.md",
     "Design/01-Pupusas-flyer.md",
@@ -247,7 +260,6 @@
     "Food/002-Banana-Bread.md",
     "Welcome.md",
     "Food/001-Cinnemon-Rolls.md",
-    "Food/assets/Pasted image 20250730095714.png",
     "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
     "Untitled.md",
     "HomeServer/Untitled.md"
