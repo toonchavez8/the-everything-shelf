@@ -25,12 +25,14 @@
             "id": "a2669c5e5c01959c",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
+                "file": "Toonchavez.dev/Ai-presentation.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Baby-Shower-Sheet"
+              "title": "Ai-presentation"
             }
           }
         ],
@@ -175,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
+                "file": "Toonchavez.dev/Ai-presentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Baby-Shower-Sheet"
+              "title": "Outline of Ai-presentation"
             }
           }
         ],
@@ -208,8 +210,8 @@
   },
   "active": "a2669c5e5c01959c",
   "lastOpenFiles": [
-    "Love/Pregnancy/01-BabyShower.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
+    "Love/Pregnancy/01-BabyShower.md",
     "Home/01-Cotizaciones-agua.md",
     "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Estudios/ULTRASONIDO (1).pdf",
