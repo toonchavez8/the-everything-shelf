@@ -83,6 +83,7 @@ La **Inteligencia Artificial** puede clasificarse de distintas maneras para ente
     
 3. **Según su aplicación de dominio** (en qué área o tipo de problema que intenta resolver).
 
+![[Pasted image 20260205211312.png]]
 ---
 
 
