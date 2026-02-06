@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Ai-presentation"
             }
+          },
+          {
+            "id": "6653e833f7239a6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a2669c5e5c01959c",
+  "active": "6653e833f7239a6a",
   "lastOpenFiles": [
     "Toonchavez.dev/assets/Pasted image 20260205164945.png",
     "Toonchavez.dev/assets/Pasted image 20260205164858.png",
