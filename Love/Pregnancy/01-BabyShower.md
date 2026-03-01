@@ -6,14 +6,14 @@
 
 | ID  | Invitado         | Tipo       | Probabildiad de Assistenticia | Confirmado |
 | --- | ---------------- | ---------- | ----------------------------- | ---------- |
-| 1   | Dominga          | Fam        | 100                           |            |
-| 2   | Jose             | Fam        | 100                           |            |
-| 3   | Laura            | Fam        | 100                           |            |
-| 4   | Abe              | Fam        | 100                           |            |
+| 1   | Dominga          | Fam        | 100                           | si         |
+| 2   | Jose             | Fam        | 100                           | si         |
+| 3   | Laura            | Fam        | 100                           | si         |
+| 4   | Abe              | Fam        | 100                           | si         |
 | 5   | Rosa Mama Abe    | In fam     | 60                            |            |
 | 20  | Jacobo           | Ind Fam    | 60                            |            |
 | 6   | Tia More         | Fam        | 50                            |            |
-| 7   | Tia Rosalba      | Fam        | 50                            |            |
+| 7   | Tia Rosalba      | Fam        | 50                            | si         |
 | 8   | Tia Benita       | Fam        | 30                            |            |
 | 9   | Tia Chale        | Fam        | 10                            |            |
 | 10  | Doña Rosa        | Amigos fam | 80                            |            |
@@ -23,9 +23,9 @@
 | 14  | Aranza           | Amigos     | 60                            |            |
 | 15  | Chris            | Amigos     | 100                           | Confirmado |
 | 16  | Sergio           | Amigos     | 100                           |            |
-| 17  | Aldo             | Amigos     | 100                           |            |
-| 18  | Gama             | Amigos     | 80                            |            |
-| 19  | Nat (novia gama) | Amigos     | 80                            |            |
+| 17  | Aldo             | Amigos     | 100                           | no         |
+| 18  | Gama             | Amigos     | 80                            | Confirmado |
+| 19  | Nat (novia gama) | Amigos     | 80                            | confirmado |
 | 21  | Leo              | Amigos     | 80                            | Confirmado |
 | 22  | Paco             | Amigos     | 80                            | Confirmado |
 
@@ -135,3 +135,30 @@
 | 99  | Lily            |      |                            |            |
 | 100 | Armando         |      |                            |            |
 | 101 | Sergito         |      |                            |            |
+## Menu
+
+- [ ] Frijoles
+- [ ] calabacitas guisados
+- [ ] Chorizo con papas
+- [ ] Mole Dulce mama cristy
+- [ ] Tinga de pollo
+- [ ] alambre de Res
+
+## Tareas
+
+
+- [ ] Conseguir las mesas 5 mesas
+- [ ] Afiné la lista de invitados y terminar de invitar a todos y empezar a confirmar
+- [ ] Comprar los globos para la mesa y decoración
+- [ ] Definir paleta de color
+- [ ] Definir mesa de postres
+- [ ] Definir qué juegos queremos
+- [ ] Rentar brincolín para niños
+- [ ] Llevar bocina para música
+- [ ] Definir Bebidas y aguas para tomar
+- [ ] Platos y vasos desechables
+
+
+
+##  Decoración.
+
