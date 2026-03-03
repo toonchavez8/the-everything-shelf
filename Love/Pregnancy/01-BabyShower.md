@@ -6,23 +6,23 @@
 
 | ID  | Invitado         | Tipo       | Probabildiad de Assistenticia | Confirmado |
 | --- | ---------------- | ---------- | ----------------------------- | ---------- |
-| 1   | Dominga          | Fam        | 100                           | si         |
-| 2   | Jose             | Fam        | 100                           | si         |
-| 3   | Laura            | Fam        | 100                           | si         |
-| 4   | Abe              | Fam        | 100                           | si         |
-| 5   | Rosa Mama Abe    | In fam     | 60                            |            |
-| 20  | Jacobo           | Ind Fam    | 60                            |            |
-| 6   | Tia More         | Fam        | 50                            |            |
-| 7   | Tia Rosalba      | Fam        | 50                            | si         |
-| 8   | Tia Benita       | Fam        | 30                            |            |
+| 1   | Dominga          | Fam        | 100                           | Confirmado |
+| 2   | Jose             | Fam        | 100                           | Confirmado |
+| 3   | Laura            | Fam        | 100                           | Confirmado |
+| 4   | Abe              | Fam        | 100                           | Confirmado |
+| 5   | Rosa Mama Abe    | In fam     | 60                            | Pendiente  |
+| 20  | Jacobo           | Ind Fam    | 60                            | Pendiente  |
+| 6   | Tia More         | Fam        | 50                            | Pendiente  |
+| 7   | Tia Rosalba      | Fam        | 50                            | Confirmado |
+| 8   | Tia Benita       | Fam        | 30                            | Pendiente  |
 | 9   | Tia Chale        | Fam        | 10                            |            |
-| 10  | Doña Rosa        | Amigos fam | 80                            |            |
-| 11  | Don Pepe         | Amigos Fam | 80                            |            |
-| 12  | Mony             | Amigos Fam | 80                            |            |
-| 13  | Ambar            | Amigos     | 100                           |            |
-| 14  | Aranza           | Amigos     | 60                            |            |
+| 10  | Doña Rosa        | Amigos fam | 80                            | Confirmado |
+| 11  | Don Pepe         | Amigos Fam | 80                            | Confirmado |
+| 12  | Mony             | Amigos Fam | 80                            | Confirmado |
+| 13  | Ambar            | Amigos     | 100                           | Pendiente  |
+| 14  | Aranza           | Amigos     | 60                            | Pendiente  |
 | 15  | Chris            | Amigos     | 100                           | Confirmado |
-| 16  | Sergio           | Amigos     | 100                           |            |
+| 16  | Sergio           | Amigos     | 100                           | Pendiente  |
 | 17  | Aldo             | Amigos     | 100                           | no         |
 | 18  | Gama             | Amigos     | 80                            | Confirmado |
 | 19  | Nat (novia gama) | Amigos     | 80                            | confirmado |
@@ -147,16 +147,49 @@
 ## Tareas
 
 
-- [ ] Conseguir las mesas 5 mesas
+- [x] Definir paleta de color
+	- [x] Verde Olvio
+	- [x] Verde Azul
+	- [x] Dorado
+	- [x] Blanco
+- [x] Conseguir las mesas 5 mesas
+	- [x] Rentar brincolín para niños
+	- [x] Ya mande mensaje 
+	- [x] Falta confirmar y hacer el pago
+		- [ ] El pago se hace cuando entregan el s 28 de marzo entre 10 - y 11 am
 - [ ] Afiné la lista de invitados y terminar de invitar a todos y empezar a confirmar
-- [ ] Comprar los globos para la mesa y decoración
-- [ ] Definir paleta de color
+- [x] Comprar los globos para la mesa y decoración
 - [ ] Definir mesa de postres
+	- [ ] Nieve para los niños
+		- [ ] Nieve de Vanilla
+		- [ ] Chocolate
+		- [ ] sprinkles
+		- [ ] Vasitos para la nieve
+	- [ ] Tapioca de abueltia
+	- [ ] Dos cajitas de Donita’s de Sams - Miguel
+- [ ]  Botanas
+	- [ ] Churritos
+		- [ ] Limon
+		- [ ] Sal 
+		- [ ] Chile
+	- [ ] Esquites de elote amarillo
+		- [ ] Mayonesa
+		- [ ] Quesito desboronad
+		- [ ] Sal
+		- [ ] Valentina
+		- [ ] Doritos 
+		- [ ] Tajin
 - [ ] Definir qué juegos queremos
-- [ ] Rentar brincolín para niños
-- [ ] Llevar bocina para música
+- [ ] Llevar bocina para música - Papa
 - [ ] Definir Bebidas y aguas para tomar
+	- [ ] Preguntar a cary donde compra sus aguas
+	- [ ] 4 cartones de 24 - Cerveza 
+		- [ ] Hieleras 
+			- [ ] Confirmar con papa cristy
+	- [ ] Agua de Sandilla - 
+	- [ ] Agua de Jamaica - 
 - [ ] Platos y vasos desechables
+	- [ ] Ver si vamos a comprar platos verdes
 
 
 

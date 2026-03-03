@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/003-Tortillas de harina.md",
+                "file": "Love/Pregnancy/01-BabyShower.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003-Tortillas de harina"
+              "title": "01-BabyShower"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food/003-Tortillas de harina.md",
+                "file": "Love/Pregnancy/01-BabyShower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003-Tortillas de harina"
+              "title": "Outline of 01-BabyShower"
             }
           }
         ],
@@ -225,9 +225,9 @@
   "active": "6c7719f15dd6fd2c",
   "lastOpenFiles": [
     "Love/Pregnancy/Baby-Shower-Sheet.md",
-    "Food/002-Banana-Bread.md",
-    "Food/003-Tortillas de harina.md",
     "Love/Pregnancy/01-BabyShower.md",
+    "Food/003-Tortillas de harina.md",
+    "Food/002-Banana-Bread.md",
     "Toonchavez.dev/Ai-presentation.md",
     "Toonchavez.dev/assets/Pasted image 20260205211312.png",
     "conflict-files-obsidian-git.md",
