@@ -180,6 +180,15 @@
 		- [ ] Doritos 
 		- [ ] Tajin
 - [ ] Definir qué juegos queremos
+	- [ ] Rasca y Revela las caras de los papas 
+		- [ ] 58 fichas y 2 ganadores 
+			- [ ] Necesitamos dos regalos
+	- [ ] Juego de Gerber
+		- [ ] 5 parejas de jugadores, 
+		- [ ] 5 gerbers
+		- [ ] 2 regalos
+	- [ ] Juego de Preguntas
+	- [ ] Cer
 - [ ] Llevar bocina para música - Papa
 - [ ] Definir Bebidas y aguas para tomar
 	- [ ] Preguntar a cary donde compra sus aguas
