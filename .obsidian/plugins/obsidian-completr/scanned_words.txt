@@ -1099,6 +1099,7 @@ servilleta
 stala
 segunda
 sprinkles
+sabia
 try
 this
 the
@@ -1723,6 +1724,7 @@ darle
 decoraci
 desechables
 desboronad
+dijo
 and
 alquiler
 arrendador
@@ -2309,6 +2311,7 @@ Chile
 Cerveza
 Confirmar
 Confirmadov
+Carne
 en
 el
 estuvo
@@ -2836,6 +2839,7 @@ John
 Joseph
 Jeopardy
 Jamaica
+Jaky
 Resumen
 Resources
 Request
@@ -3379,6 +3383,7 @@ Amasar
 Acom
 Afin
 Azul
+Adobada
 por
 productive
 provides
@@ -3623,6 +3628,7 @@ postres
 pago
 papa
 platos
+pastor
 YEN
 Ya
 You
@@ -5398,6 +5404,7 @@ QI
 Qr
 QYX
 Quesito
+Quito
 Familiarity
 Fix
 Feature
@@ -5519,6 +5526,7 @@ Fueron
 Forma
 Frijoles
 Falta
+Fami
 Use
 Update
 Uchi

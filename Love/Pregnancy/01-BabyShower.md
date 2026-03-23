@@ -12,22 +12,25 @@
 | 4   | Abe              | Fam        | 100                           | Confirmado |
 | 5   | Rosa Mama Abe    | In fam     | 60                            | Pendiente  |
 | 20  | Jacobo           | Ind Fam    | 60                            | Pendiente  |
-| 6   | Tia More         | Fam        | 50                            | Pendiente  |
+| 6   | Tia More         | Fam        | 50                            | Confirmado |
 | 7   | Tia Rosalba      | Fam        | 50                            | Confirmado |
 | 8   | Tia Benita       | Fam        | 30                            | Pendiente  |
 | 9   | Tia Chale        | Fam        | 10                            |            |
 | 10  | Doña Rosa        | Amigos fam | 80                            | Confirmado |
 | 11  | Don Pepe         | Amigos Fam | 80                            | Confirmado |
 | 12  | Mony             | Amigos Fam | 80                            | Confirmado |
-| 13  | Ambar            | Amigos     | 100                           | Pendiente  |
-| 14  | Aranza           | Amigos     | 60                            | Pendiente  |
+| 13  | Ambar            | Amigos     | 100                           | Confirmado |
+| 14  | Aranza           | Amigos     | 60                            | Confirmado |
 | 15  | Chris            | Amigos     | 100                           | Confirmado |
-| 16  | Sergio           | Amigos     | 100                           | Pendiente  |
+| 16  | Sergio           | Amigos     | 100                           | Confirmado |
 | 17  | Aldo             | Amigos     | 100                           | no         |
 | 18  | Gama             | Amigos     | 80                            | Confirmado |
 | 19  | Nat (novia gama) | Amigos     | 80                            | confirmado |
 | 21  | Leo              | Amigos     | 80                            | Confirmado |
 | 22  | Paco             | Amigos     | 80                            | Confirmado |
+| 23  | Tia Quito        | Fami       | 60                            | Pendiente  |
+| 24  | Jaky             | Fami       |                               | Pendiente  |
+|     |                  |            |                               |            |
 
 ### Invitados Cristy <3
 
@@ -137,12 +140,12 @@
 | 101 | Sergito         |      |                            |             |
 ## Menu
 
-- [ ] Frijoles
-- [ ] calabacitas guisados
-- [ ] Chorizo con papas
-- [ ] Mole Dulce mama cristy
-- [ ] Tinga de pollo
-- [ ] alambre de Res
+- [ ] Frijoles - Mama 
+- [ ] calabacitas guisados - Mama 
+- [ ] Chorizo con papas - Mama
+- [ ] Mole Dulce - mama cristy
+- [ ] Tinga de pollo - Mama 
+- [ ] Carne Adobada la que nos dijo que sabia medio al pastor - Mama 
 
 ## Tareas
 
@@ -179,7 +182,7 @@
 		- [ ] Valentina
 		- [ ] Doritos 
 		- [ ] Tajin
-- [ ] Definir qué juegos queremos
+- [x] Definir qué juegos queremos
 - [ ] Llevar bocina para música - Papa
 - [ ] Definir Bebidas y aguas para tomar
 	- [ ] Preguntar a cary donde compra sus aguas
