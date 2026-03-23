@@ -148,56 +148,59 @@
 ## Tareas
 
 - [x] Definir paleta de color
- 	- [x] Verde Olvio
- 	- [x] Verde Azul
- 	- [x] Dorado
- 	- [x] Blanco
+	- [x] Verde Olivo
+	- [x] Verde Azul
+	- [x] Dorado
+	- [x] Blanco
 - [x] Conseguir las mesas 5 mesas
- 	- [x] Rentar brincolín para niños
- 	- [x] Ya mande mensaje
- 	- [x] Falta confirmar y hacer el pago
-  		- [ ] El pago se hace cuando entregan el s 28 de marzo entre 10 - y 11 am
+	- [x] Rentar brincolín para niños
+		- [x] Ya mande mensaje
+	- [x] Falta confirmar y hacer el pago
+		- [ ] El pago se hace cuando entregan el s 28 de marzo entre 10 - y 11 am
 - [ ] Afiné la lista de invitados y terminar de invitar a todos y empezar a confirmar
 - [x] Comprar los globos para la mesa y decoración
 - [ ] Definir mesa de postres
- 	- [ ] Nieve para los niños
-  		- [ ] Nieve de Vanilla
-  		- [ ] Chocolate
-  		- [ ] sprinkles
-  		- [ ] Vasitos para la nieve
- 	- [ ] Tapioca de abueltia
- 	- [ ] Dos cajitas de Donita’s de Sams - Miguel
+	- [x] Madrina va ser Paste de zanahoria
+	- [ ] Tapioca de abueltia
+	- [x] Mama Cristy Va hacer flan
+	- [ ] Dos cajitas de Donita’s de Sams - Miguel
 - [ ]  Botanas
- 	- [ ] Churritos
-  		- [ ] Limon
-  		- [ ] Sal
-  		- [ ] Chile
- 	- [ ] Esquites de elote amarillo
-  		- [ ] Mayonesa
-  		- [ ] Quesito desboronad
-  		- [ ] Sal
-  		- [ ] Valentina
-  		- [ ] Doritos
-  		- [ ] Tajin
+	- [ ] Churritos
+		- [ ] Limon
+		- [ ] Sal
+		- [ ] Chile
+	- [ ] Palomitas
 - [ ] Definir qué juegos queremos
- 	- [ ] Rasca y Revela las caras de los papas
-  		- [ ] 58 fichas y 2 ganadores
-   			- [ ] Necesitamos dos regalos
- 	- [ ] Juego de Gerber
-  		- [ ] 5 parejas de jugadores,
-  		- [ ] 5 gerbers
-  		- [ ] 2 regalos
- 	- [ ] Juego de Preguntas
- 	- [ ] Cer
+	- [ ] Rasca y Revela las caras de los papas
+		- [ ] 58 fichas y 2 ganadores
+		- [ ] Necesitamos dos regalos
+	- [ ] Juego de Gerber
+		- [ ] 5 parejas de jugadores,
+		- [ ] 5 gerbers
+		- [ ] 2 regalos
+	- [ ] Juego de Preguntas
+		- [ ] Laura ya tiene preguntas, seria ver le pedimos que revise con kary si quieren hacer mas preguntas?
+	- [ ] Bibi de Cerveza
+		- [x] 5 bibis
+		- [ ] 1 Regalo
+	- [ ] Pegarle el chupon al beber
+		- [ ] Dos ganadores?
+	- [ ] Juego Global de no decir bebe, no cruzar las manos los pies, ver reels, hostorias y o estar mucho tiempo en el Cel 
+		- [ ] Quien tenga mas pins niñas y niños
+	- [ ] No Dejar Caer Al bebe 
+		- [ ] 5 Toallas 
+		- [ ] 1 mono
+		- [ ] Pasarse el bebe de uno a uno hasta que queden solo 2
+		- [ ] 2 regalos
+		- [ ] 5 parejas
 - [ ] Llevar bocina para música - Papa
 - [ ] Definir Bebidas y aguas para tomar
- 	- [ ] Preguntar a cary donde compra sus aguas
- 	- [ ] 4 cartones de 24 - Cerveza
-  		- [ ] Hieleras
-   			- [ ] Confirmar con papa cristy
- 	- [ ] Agua de Sandilla -
- 	- [ ] Agua de Jamaica -
-- [ ] Platos y vasos desechables
- 	- [ ] Ver si vamos a comprar platos verdes
+	- [ ] Preguntar a cary donde compra sus aguas
+	- [ ] 4 cartones de 24 - Cerveza
+	- [ ] Hieleras
+		- [ ] Confirmar con papa cristy
+	- [ ] Agua de Sandilla -mama 
+	- [ ] Agua de Jamaica -
+- [x] Platos y vasos desechables - Mama
 
 ## Decoración
