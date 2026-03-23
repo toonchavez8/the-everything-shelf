@@ -945,6 +945,7 @@ scanned
 sprinkles
 sica
 sus
+sabia
 try
 this
 the
@@ -1305,6 +1306,7 @@ regaderas
 requiere
 revision
 rosy
+regalos
 delete
 de
 disponible
@@ -1450,6 +1452,8 @@ dia
 decoraci
 desboronad
 desechables
+dijo
+dos
 and
 alquiler
 arrendador
@@ -1927,6 +1931,8 @@ Churritos
 Chile
 Cerveza
 Confirmar
+Carne
+Cer
 en
 el
 estuvo
@@ -2296,6 +2302,7 @@ Novia
 Novio
 Nany
 Nieve
+Necesitamos
 Jap
 Jp
 Japan
@@ -2386,6 +2393,8 @@ Jasky
 Jaime
 Jorge
 Jamaica
+Jaky
+Juego
 Resumen
 Resources
 Request
@@ -2492,6 +2501,8 @@ Rodri
 Ruby
 Res
 Rentar
+Rasca
+Revela
 Propiedad
 Precio
 Per
@@ -2624,6 +2635,7 @@ Pendiente
 Papa
 Preguntar
 Platos
+Preguntas
 habitaciones
 hace
 helps
@@ -2857,6 +2869,7 @@ Ana
 Armando
 Azul
 Afin
+Adobada
 por
 productive
 provides
@@ -3037,6 +3050,8 @@ pago
 postres
 papa
 platos
+pastor
+parejas
 YEN
 Ya
 You
@@ -3564,6 +3579,7 @@ cajitas
 cary
 cartones
 comprar
+caras
 with
 work
 when
@@ -3919,6 +3935,8 @@ grado
 gama
 guisados
 globos
+ganadores
+gerbers
 Even
 English
 Estimate
@@ -4312,6 +4330,7 @@ find
 filtrantes
 fm
 fam
+fichas
 Often
 One
 Opportunities
@@ -4600,6 +4619,7 @@ QI
 Qr
 QYX
 Quesito
+Quito
 Familiarity
 Fix
 Feature
@@ -4712,6 +4732,7 @@ Fam
 Fer
 Frijoles
 Falta
+Fami
 Use
 Update
 Uchi
@@ -5117,6 +5138,7 @@ Gaby
 Guero
 German
 Gera
+Gerber
 jiss
 japon
 json
@@ -5178,6 +5200,7 @@ jmWP
 jYO
 jC
 juegos
+jugadores
 que
 quisieran
 qqqJD
