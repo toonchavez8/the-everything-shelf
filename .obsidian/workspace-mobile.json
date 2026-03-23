@@ -165,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -179,8 +180,9 @@
   },
   "active": "190f995473f98183",
   "lastOpenFiles": [
-    "Food/Pregnancy-cooking/001-Dieta.md",
+    "Food/001-Cinnemon-Rolls.md",
     "Love/Pregnancy/01-BabyShower.md",
+    "Food/Pregnancy-cooking/001-Dieta.md",
     "Home/pdfs/COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua.pdf",
     "Home/pdfs/AQUAMASTER - Sistema Central de Purificacion de Agua - Folleto.pdf",
     "Home/assets/Pasted image 20260130122753.png",
@@ -217,7 +219,6 @@
     "/Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
     "/HomeServer/Untitled.md",
     "HomeServer/Untitled.md",
-    "Food/001-Cinnemon-Rolls.md",
     "/Japan-dev/Moving-to-Japan.md",
     "001-Cinnemon-Rolls.md",
     "/Food/001-Cinnemon-Rolls.md"
