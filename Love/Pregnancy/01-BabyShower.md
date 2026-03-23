@@ -179,7 +179,7 @@
 		- [ ] 5 gerbers
 		- [ ] 2 regalos
 	- [ ] Juego de Preguntas
-		- [ ] Laura ya tiene preguntas, seria ver le pedimos que revise con kary si quieren hacer mas preguntas?
+		- [ ] Mi hermana ya tiene preguntas, seria ver le pedimos que revise con kary si quieren agregar mas preguntas?
 	- [ ] Bibi de Cerveza
 		- [x] 5 bibis
 		- [ ] 1 Regalo
