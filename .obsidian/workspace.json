@@ -39,12 +39,14 @@
             "id": "6653e833f7239a6a",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
+                "file": "Love/Pregnancy/01-BabyShower.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Baby-Shower-Sheet"
+              "title": "01-BabyShower"
             }
           }
         ],
@@ -189,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
+                "file": "Love/Pregnancy/01-BabyShower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Baby-Shower-Sheet"
+              "title": "Outline of 01-BabyShower"
             }
           }
         ],
@@ -222,11 +224,11 @@
   },
   "active": "6653e833f7239a6a",
   "lastOpenFiles": [
+    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Toonchavez.dev/assets/Pasted image 20260205211312.png",
     "Toonchavez.dev/assets/Pasted image 20260205164945.png",
     "Toonchavez.dev/assets/Pasted image 20260205164858.png",
     "Toonchavez.dev/assets",
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Love/Pregnancy/01-BabyShower.md",
     "Home/01-Cotizaciones-agua.md",
     "conflict-files-obsidian-git.md",
@@ -252,7 +254,6 @@
     "Japan-dev/Guides/00-Japan-import-guide.md",
     "Japan-dev/Jobs.md",
     "Home/assets/Pasted image 20251208165029.png",
-    "Home/assets/Pasted image 20251208163051.png",
     "Japan-dev/Moving-to-Japan.md",
     "HomeServer/N8n/01-Setup-on-prem.md",
     "Design/01-Pupusas-flyer.md",
