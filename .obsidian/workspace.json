@@ -39,14 +39,12 @@
             "id": "6653e833f7239a6a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excel-pro-view",
               "state": {
-                "file": "Love/Pregnancy/01-BabyShower.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
               },
               "icon": "lucide-file",
-              "title": "01-BabyShower"
+              "title": "Baby-Shower-Sheet"
             }
           }
         ],
@@ -191,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/01-BabyShower.md",
+                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-BabyShower"
+              "title": "Outline of Baby-Shower-Sheet"
             }
           }
         ],
@@ -224,8 +222,8 @@
   },
   "active": "6653e833f7239a6a",
   "lastOpenFiles": [
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Love/Pregnancy/01-BabyShower.md",
+    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "conflict-files-obsidian-git.md",
     "Home/01-Cotizaciones-agua.md",
     "Food/003-Tortillas de harina.md",
