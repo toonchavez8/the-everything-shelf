@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/01-BabyShower.md",
-                "mode": "preview",
+                "file": "Carro/00-Datos-de-Carros.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-BabyShower"
+              "title": "00-Datos-de-Carros"
             }
           },
           {
@@ -27,28 +27,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Toonchavez.dev/Ai-presentation.md",
+                "file": "Food/002-Banana-Bread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ai-presentation"
+              "title": "002-Banana-Bread"
             }
           },
           {
-            "id": "6653e833f7239a6a",
+            "id": "6c7719f15dd6fd2c",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
+                "file": "Love/Pregnancy/01-BabyShower.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Baby-Shower-Sheet"
+              "title": "01-BabyShower"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
+                "file": "Carro/00-Datos-de-Carros.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Baby-Shower-Sheet"
+              "title": "Outline of 00-Datos-de-Carros"
             }
           }
         ],
@@ -220,17 +221,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6653e833f7239a6a",
+  "active": "b47c548dffae639e",
   "lastOpenFiles": [
-    "Love/Pregnancy/01-BabyShower.md",
+    "Carro/01- Bitacora de Matenimiento.md",
+    "Carro/00-Datos-de-Carros.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
-    "conflict-files-obsidian-git.md",
-    "Home/01-Cotizaciones-agua.md",
+    "Carro",
+    "Love/Pregnancy/01-BabyShower.md",
     "Food/003-Tortillas de harina.md",
+    "Food/002-Banana-Bread.md",
+    "Toonchavez.dev/Ai-presentation.md",
     "Toonchavez.dev/assets/Pasted image 20260205211312.png",
+    "conflict-files-obsidian-git.md",
     "Toonchavez.dev/assets/Pasted image 20260205164945.png",
     "Toonchavez.dev/assets/Pasted image 20260205164858.png",
     "Toonchavez.dev/assets",
+    "Home/01-Cotizaciones-agua.md",
     "Love/Pregnancy/Estudios/ULTRASONIDO (1).pdf",
     "Love/Pregnancy/Estudios/LABORATORIO (1).pdf",
     "Love/Pregnancy/Estudios/JS114606-66023835-074003.pdf",
@@ -240,12 +246,10 @@
     "Love/Pregnancy/Estudios",
     "Home/assets/Pasted image 20260130122753.png",
     "Home/pdfs/COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua.pdf",
-    "Home/pdfs/COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua (1).pdf",
     "Home/assets/Pasted image 20260130113047.png",
     "Home/assets/Pasted image 20260129175346.png",
     "Home/assets/Pasted image 20260129175335.png",
     "Home/assets/Pasted image 20260129173909.png",
-    "Toonchavez.dev/Ai-presentation.md",
     "Home/assets/Pasted image 20260129173231.png",
     "Toonchavez.dev/spliter.md",
     "Japan-dev/001-Comprehensive-guide.md",
@@ -258,7 +262,6 @@
     "Design/01-Pupusas-flyer.md",
     "Toonchavez.dev/02-MicroSass/00-CleckStack.md",
     "Food/Pregnancy-cooking/001-Dieta.md",
-    "Food/002-Banana-Bread.md",
     "Welcome.md",
     "Food/001-Cinnemon-Rolls.md",
     "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
