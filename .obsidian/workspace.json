@@ -39,12 +39,14 @@
             "id": "6653e833f7239a6a",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md"
+                "file": "Love/Pregnancy/01-BabyShower.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Baby-Shower-Sheet"
+              "title": "01-BabyShower"
             }
           }
         ],
@@ -189,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/Baby-Shower-Sheet.md",
+                "file": "Love/Pregnancy/01-BabyShower.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Baby-Shower-Sheet"
+              "title": "Outline of 01-BabyShower"
             }
           }
         ],
@@ -222,8 +224,8 @@
   },
   "active": "6653e833f7239a6a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
+    "conflict-files-obsidian-git.md",
     "Carro/01- Bitacora de Matenimiento.md",
     "Carro/00-Datos-de-Carros.md",
     "Carro",
