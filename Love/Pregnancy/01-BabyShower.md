@@ -205,21 +205,26 @@
 
 ## Decoración
 Pendientes baby shower
-- [ ] cerveza
-- [ ] Biberones
-- [ ] Juego chupon
-- [ ] Lotería
-- [ ] Premios
-- [ ] Juego globos
-- [ ] Gerber
-- [ ] 5 Vendas para tapar los ojos o ponerse atrás del que comerá el gerber
-- [ ] Centros de mesa
-- [ ] Manteles verdes
-- [ ] Salsa Valentina
-- [ ] Dinero 
-- [ ] Garrafón de agua natural 
-- [ ] Toallas o mantelería para el juego del bebé 
-- [ ] Batería externa 
-- [ ] Cámara con memoria 
-- [ ] Checar con Cristy si para el juego de preguntas va a querer que usemos nuestro zapatos 
-- [ ] 
+- [x] cerveza
+- [x] Biberones
+- [x] Juego chupon
+- [x] Lotería
+- [x] Premios
+- [x] Juego globos
+- [x] Gerber
+- [x] 5 Vendas para tapar los ojos o ponerse atrás del que comerá el gerber
+- [x] Centros de mesa
+- [x] Manteles verdes
+- [x] Salsa Valentina
+- [x] Dinero 
+- [x] Garrafón de agua natural 
+- [x] Toallas o mantelería para el juego del bebé 
+- [x] Batería externa 
+- [x] Cámara con memoria 
+- [x] un par de zapatos de Cristi y de Miguel
+- [x] Dos rollos de papel de baño el que huele 
+- [x] lavar los biberones
+- [x] Mesa plegable 
+- [x] Ropa Miguel y Cristy 
+- [x] Desodorante Miguel 
+- [x] Toalla y peine 
