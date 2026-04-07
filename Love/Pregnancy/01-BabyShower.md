@@ -195,12 +195,36 @@
 		- [ ] 5 parejas
 - [ ] Llevar bocina para música - Papa
 - [ ] Definir Bebidas y aguas para tomar
-	- [ ] Preguntar a cary donde compra sus aguas
-	- [ ] 4 cartones de 24 - Cerveza
-	- [ ] Hieleras
-		- [ ] Confirmar con papa cristy
+	- [x] Preguntar a cary donde compra sus aguas
+	- [x] 4 cartones de 24 - Cerveza
+	- [x] Hieleras
+		- [x] Confirmar con papa cristy
 	- [ ] Agua de Sandilla -mama 
 	- [ ] Agua de Jamaica -
 - [x] Platos y vasos desechables - Mama
 
 ## Decoración
+Pendientes baby shower
+- [x] cerveza
+- [x] Biberones
+- [x] Juego chupon
+- [x] Lotería
+- [x] Premios
+- [x] Juego globos
+- [x] Gerber
+- [x] 5 Vendas para tapar los ojos o ponerse atrás del que comerá el gerber
+- [x] Centros de mesa
+- [x] Manteles verdes
+- [x] Salsa Valentina
+- [x] Dinero 
+- [x] Garrafón de agua natural 
+- [x] Toallas o mantelería para el juego del bebé 
+- [x] Batería externa 
+- [x] Cámara con memoria 
+- [x] un par de zapatos de Cristi y de Miguel
+- [x] Dos rollos de papel de baño el que huele 
+- [x] lavar los biberones
+- [x] Mesa plegable 
+- [x] Ropa Miguel y Cristy 
+- [x] Desodorante Miguel 
+- [x] Toalla y peine 
