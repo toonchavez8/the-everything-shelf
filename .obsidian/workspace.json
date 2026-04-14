@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5d0d9f338dfca206",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4ed903d76677e965",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "COT 107 - MIGUEL CHAVEZ PROPUESTA 2"
-            }
-          }
-        ]
-      },
-      {
         "id": "2808ec0c680ac424",
         "type": "tabs",
         "children": [
@@ -106,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -214,11 +195,11 @@
   },
   "active": "e10cf3fc4863dc8e",
   "lastOpenFiles": [
-    "Home/assets/Pasted image 20260414133459.png",
-    "Home/assets/Pasted image 20260414133447.png",
     "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
     "Home/pdfs/COT 106 - MIGUEL CHAVEZ PROPUESTA 1.pdf",
     "Home/01-Cotizaciones-agua.md",
+    "Home/assets/Pasted image 20260414133459.png",
+    "Home/assets/Pasted image 20260414133447.png",
     "Love/Pregnancy/01-BabyShower.md",
     "Toonchavez.dev/Ai-presentation.md",
     "Coto/001-Junta-abril-06.md",
@@ -243,7 +224,6 @@
     "Home/assets/Pasted image 20260129175346.png",
     "Home/assets/Pasted image 20260129175335.png",
     "Home/assets/Pasted image 20260129173909.png",
-    "Home/assets/Pasted image 20260129173231.png",
     "Toonchavez.dev/spliter.md",
     "Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
