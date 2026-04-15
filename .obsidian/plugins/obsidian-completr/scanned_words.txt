@@ -158,6 +158,7 @@ Tinga
 Tareas
 Tapioca
 Tajin
+Tarjeta
 is
 ilimitado
 inmediato
@@ -492,6 +493,7 @@ naturales
 ndoles
 ndole
 nieve
+nombre
 vault
 vocabulary
 viajar
@@ -728,6 +730,10 @@ Mezclar
 Menu
 Mole
 Mayonesa
+Modelo
+MAGMA
+MHYNC
+Motor
 of
 or
 own
@@ -1099,6 +1105,7 @@ servilleta
 stala
 segunda
 sprinkles
+suegra
 try
 this
 the
@@ -2119,6 +2126,7 @@ mesa
 mande
 mensaje
 marzo
+mam
 Casa
 Currency
 Conversion
@@ -2309,6 +2317,11 @@ Chile
 Cerveza
 Confirmar
 Confirmadov
+Cliente
+CARMEI
+Color
+Chasis
+CN
 en
 el
 estuvo
@@ -2638,6 +2651,8 @@ Dorado
 Dos
 Donita
 Doritos
+DURAN
+DEL
 Nishitama
 Nanika
 No
@@ -2743,6 +2758,7 @@ Neural
 Neuronales
 Notar
 Nieve
+NIV
 Jap
 Jp
 Japan
@@ -2836,6 +2852,8 @@ John
 Joseph
 Jeopardy
 Jamaica
+JSL
+JED
 Resumen
 Resources
 Request
@@ -3109,6 +3127,7 @@ Platos
 Pendiente
 Papa
 Preguntar
+Placas
 habitaciones
 hace
 helps
@@ -3379,6 +3398,8 @@ Amasar
 Acom
 Afin
 Azul
+Abarca
+AE
 por
 productive
 provides
@@ -3845,6 +3866,8 @@ Son
 Simula
 Sams
 Sandilla
+SZK
+SV
 but
 barrier
 basic
@@ -4273,6 +4296,7 @@ cajitas
 cary
 cartones
 comprar
+culo
 with
 work
 when
@@ -4777,6 +4801,7 @@ Engrasar
 Espolvorear
 Estirar
 Esquites
+ERTIGA
 useful
 ugoki
 up
@@ -4959,6 +4984,7 @@ Leche
 Lograr
 Llevar
 Limon
+LAURA
 fluent
 fully
 follow
@@ -5591,6 +5617,8 @@ Un
 Universidad
 Utiliza
 Usan
+Uso
+Unidad
 Vocabulary
 Variable
 Ve
@@ -5673,6 +5701,9 @@ Verde
 Vasitos
 Valentina
 Ver
+VARGAS
+VEL
+VIN
 Implementation
 Improvement
 Information
@@ -5779,6 +5810,7 @@ Ingrediente
 Instrucciones
 Incorpora
 Integrar
+Inventario
 Bug
 Be
 Bleeping
@@ -5881,6 +5913,7 @@ Batir
 Bebidas
 Blanco
 Botanas
+Barragan
 Gen
 Gengo
 Gu
@@ -5960,6 +5993,8 @@ Generative
 Generativa
 Genera
 GENAi
+GLX
+GRIS
 jiss
 japon
 json
