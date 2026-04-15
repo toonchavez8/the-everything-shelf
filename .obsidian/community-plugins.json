@@ -12,5 +12,6 @@
   "currency-converter",
   "convert-url-to-iframe",
   "simple-table-math",
-  "sheet-plus"
+  "sheet-plus",
+  "better-export-pdf"
 ]

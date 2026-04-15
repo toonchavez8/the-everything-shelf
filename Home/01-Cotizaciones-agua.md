@@ -49,16 +49,6 @@ Diametro: 30 Cms
 
 ---
 
-## Tabla comparativa
-
-
-| Marca                      | Costo                                                          | Medidas                       | Instalacion         | Mantenimiento                                                                                                                                                                                                         | Notas                                                    |
-| -------------------------- | -------------------------------------------------------------- | ----------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| Carico Mexico Filtro casa  | $130,287.20                                                    | 1.10 mts de alto              | Includia            | No                                                                                                                                                                                                                    |                                                          |
-| Carico Mexico Filtro llave | $30,000, tambien se puede renta de filtro mensual              |                               | Incluida            |                                                                                                                                                                                                                       |                                                          |
-| Sitra. Mx                  | $29,701                                                        |                               | Incluida            |                                                                                                                                                                                                                       |                                                          |
-| Purific Water              | Quieren venir a ver la casa para cotizar<br><br>+- **$35,000** | 30 cm de profundidad x 150 cm | Incluida al cotizar | Con las válvulas automáticas solo tendrás que preocuparte por mantener el tanque de salmuera con sacos de sal en pellets. Cada saco cuesta aproximadamente $200 con 20 kilos <br>Y necesitas 4 kilos cada retrolavado | Estos filtros se cambian cada 5 a 8 años aproximadamente |
-
 ## AGUAFICER
 
 https://www.facebook.com/avoclean/
@@ -243,3 +233,80 @@ De los filtros , tienen una valvbula que hace que hagan un retrolavado y siga fi
 **El costo de los tres filtros es de $24,600.00 mas instalacion y mano de obra eso lo determinaria despues de una revision en su domicilio**
 
 El costo de revision es de 350 nos ponemos de acuerdo el dia y la hora en la agenda y pasamos a la revision ya si autoriza se le toman a cuenta
+
+—
+
+## Sehipro
+
+Solución enfocada en eliminar problemas comunes del agua doméstica como mal olor, turbidez y sarro.
+
+### Componentes del sistema:
+
+- Filtro de lecho profundo (remueve sedimentos)
+- Filtro de carbón activado (reduce olor, color y contaminantes orgánicos)
+- Suavizador manual (disminuye la dureza del agua y previene sarro)
+
+### Beneficios esperados:
+
+- Eliminación de olores desagradables
+- Mejora en la claridad del agua
+- Reducción de acumulación de sarro en tuberías y equipos
+
+### Precio:
+
+- Desde $19,500 MXN
+- Instalación no incluida (se cobra aparte)
+
+### Opcion 1
+FILTRO ZEOLITA 1 pie AUTOMÁTICO
+(remueve sedimentos, arena, tierra, óxidos, turbiedad
+Y partículas finas del agua)
+FILTRO CARBÓN ACTIVADO 1 pie AUTOMÁTICO
+(elimina cloro, olores, sabores, químicos orgánicos
+Y contaminantes que afectan el color y el olor del agua)
+FILTRO SUAVIZADOR 1 pie AUTOMÁTICO
+(elimina la dureza del agua, es decir, el exceso de calcio
+Y magnesio)
+
+Manteminieto cada 3 años
+
+Solo agregar costales de sal cada 1 o 2 meses de $300 
+
+38,280 MXN mas o menos 23 mil si fuera version manual
+
+
+
+![[Pasted image 20260414133447.png]]
+### Opcion 2
+
+TREN DE FILTRADO BÁSICO BIG BLUE
+FILTRO DE PERLAS DE FOLIFOSFATO ANTISARRO
+(neutraliza calcio y magnesio)
+INSTALACIÓN BÁSICA
+
+![[Pasted image 20260414133459.png]]
+
+Son filtros mas chicos
+
+Los mantenimientos son mas Continuous tienen cartuchos que debemos cambiar cada 3-6 meses
+El ultimo chiquito ayuda a reducir el calcio a comparaciones de los grandes
+
+
+-------------------------
+
+## Tabla Comparativa
+
+| Marca / Proveedor         | Costo Inicial                             | Qué Incluye                                             | Instalación               | Mantenimiento                                 | Costos de Mantenimiento                            | Notas clave                                                         |
+| ------------------------- | ----------------------------------------- | ------------------------------------------------------- | ------------------------- | --------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------- |
+| **Sehipro p 2**           | $5,974                                    | 3 filtros chicos + filtro magnecio                      | Incluida                  | Cada 3-6 meses                                | Comprar y cambiar cartuchos                        | No me gusta la idea de carchos                                      |
+| **AQSI**                  | 💲 11,484                                 | Suavizador + filtración                                 | ❌ No                      | Cada 3 años                                   | 💲 $3,480                                          | Enfocado en sarro                                                   |
+| **Filtratec**             | 💲 16,999                                 | Filtro sedimentos + carbón                              | ✅ Incluida                | Cada año                                      | 💲 $3,100                                          | Sin electricidad                                                    |
+| **Aguaficer**             | 💲 $17,600 – $20,600                      | Tren de filtración (2–3 filtros)                        | ✅ Incluida                | Cada 2 años                                   | 💲 $1,599                                          | Muy económico                                                       |
+| **InWater**               | 💲 $24,600 + instalación                  | 3 filtros (zeolita + carbón + suavizador)               | ❌ Cotización              | Bajo (solo sal)                               | Sal mensual                                        | Económico pero instalación aparte                                   |
+| **Ecovita (Aquamaster)**  | 💲 $27,100                                | Multimedia + suavizador + UV                            | ✅ Incluida                | Anual                                         | 💲 $4,200 + sal ($390/mes y medio)                 | ⭐ Muy completo (incluye UV)                                         |
+| **Firessa**               | 💲 27,784.56                              | 3 equipos completos                                     | ❌ No incluida             | Cada 18–24 meses                              | 💲 ~$8,000                                         | Requiere espacio y luz                                              |
+| **Sitra.mx**              | 💲 $29,701 -$38,282<br>(ya con 25% desc.) | 2–3 filtros (sedimentos + carbón + opcional suavizador) | ✅ Incluida                | Cada 1.5 años (filtros) / 3 años (suavizador) | No especificado                                    | Buena relación calidad/precio                                       |
+| **Carico México (Llave)** | 💲 $30,000                                | Filtro puntual                                          | ✅ Incluida                | ❌                                             | ❌                                                  | Alternativa más básica                                              |
+| **Purific Water**         | 💲 ~ $35,000                              | 3 filtros + válvulas automáticas                        | ✅ Incluida (tras cotizar) | Retrolavado automático + sal                  | ~$200 por saco (uso continuo)                      | Automatizado, menos intervención                                    |
+| **Sehipro p 1**           | $38,280                                   | 3 filtros (zeolita + carbón + suavizador)               | *cobrada pero incluida*   | Cada 3 años solo agregar sal                  | 300 cada sal no me dijeron el costo de mantimineto | Tienen una opcion ligermente mas barta que es las valvulas manuales |
+| **Carico México (Casa)**  | 💲 $130,287                               | Sistema completo premium                                | ✅ Incluida                | ❌ No especificado                             | ❌                                                  | ❗ Muy caro                                                          |
