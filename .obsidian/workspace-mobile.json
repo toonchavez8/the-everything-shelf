@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/01-BabyShower.md",
+                "file": "Home/01-Cotizaciones-agua.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-BabyShower"
+              "title": "01-Cotizaciones-agua"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Love/Pregnancy/01-BabyShower.md",
+            "file": "Home/01-Cotizaciones-agua.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "001-Cinnemon-Rolls.md",
+            "file": "Home/01-Cotizaciones-agua.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,7 +161,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,39 +178,41 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "190f995473f98183",
+  "active": "6ab70a1c46aaed11",
   "lastOpenFiles": [
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Love/Pregnancy/01-BabyShower.md",
+    "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
+    "Home/assets/Pasted image 20260414133459.png",
+    "Coto/001-Junta-abril-06.pdf",
+    "Coto/001-Junta-abril-06.md",
+    "Coto/001-Junta-abril-06.docx",
+    "/Love/Pregnancy/Baby-Shower-Sheet.md",
+    "/Love/Pregnancy",
+    "/Love",
+    "/Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
+    "/Home/pdfs/COT 106 - MIGUEL CHAVEZ PROPUESTA 1.pdf",
+    "Home/pdfs/COT 106 - MIGUEL CHAVEZ PROPUESTA 1.pdf",
+    "/Home/pdfs",
+    "/Home/assets/Pasted image 20260414133459.png",
+    "/Home/assets/Pasted image 20260414133447.png",
+    "Home/assets/Pasted image 20260414133447.png",
+    "/Home/assets",
+    "/Home/01-Cotizaciones-agua.md",
+    "/Coto/001-Junta-abril-06.md",
+    "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Carro/01- Bitacora de Matenimiento.md",
     "/Carro/01- Bitacora de Matenimiento.md",
     "Carro/00-Datos-de-Carros.md",
-    "/Love/Pregnancy/Baby-Shower-Sheet.md",
     "/Love/Pregnancy/01-BabyShower.md",
-    "/Love/Pregnancy",
-    "/Love",
     "/Carro/00-Datos-de-Carros.md",
-    "Carro",
-    "/Carro",
     "Food/001-Cinnemon-Rolls.md",
     "Food/Pregnancy-cooking/001-Dieta.md",
-    "Home/pdfs/COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua.pdf",
-    "Home/pdfs/AQUAMASTER - Sistema Central de Purificacion de Agua - Folleto.pdf",
     "Home/assets/Pasted image 20260130122753.png",
     "Home/assets/Pasted image 20260130113047.png",
     "Home/assets/Pasted image 20260129175346.png",
     "Home/assets/Pasted image 20260129175335.png",
     "Home/assets/Pasted image 20260129173909.png",
-    "/Home/01-Cotizaciones-agua.md",
-    "/Home/pdfs/COT-23014 Aquamaster 1.0 ft3 Sistema Central de Purificación de Agua.pdf",
-    "/Home/pdfs/AQUAMASTER - Sistema Central de Purificacion de Agua - Folleto.pdf",
-    "/Home/pdfs/22466-MIGUEL CHAVEZ.PDF",
-    "Home/pdfs/22466-MIGUEL CHAVEZ.PDF",
     "/Home/assets/Pasted image 20260130122753.png",
-    "/Home/assets/Pasted image 20260130113047.png",
-    "/Home/assets/Pasted image 20260129175346.png",
-    "/Home/assets/Pasted image 20260129175335.png",
-    "/Home/assets/Pasted image 20260129173909.png",
     "/Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/001-Comprehensive-guide.md",
     "Home/01-Cotizaciones-agua.md",
@@ -222,9 +224,6 @@
     "/Food/002-Banana-Bread.md",
     "/Design/01-Pupusas-flyer.md",
     "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
-    "/Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
-    "/HomeServer/Untitled.md",
-    "HomeServer/Untitled.md",
-    "/Japan-dev/Moving-to-Japan.md"
+    "/Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md"
   ]
 }
