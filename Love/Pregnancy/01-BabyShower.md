@@ -28,7 +28,7 @@
 | 23  | Tia Quito        | Fami       | 60                            | Pendiente  |
 | 24  | Jaky             | Fami       |                               | Pendiente  |
 |     |                  |            |                               |            |
-
+ 
 ### Invitados Cristy <3
 
 |     |                 |      |                            |             |
