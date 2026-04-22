@@ -14,7 +14,7 @@
 - Bote para pañales
 - Pera de succion de mocos
 - [Fular](https://www.liverpool.com.mx/tienda/pdp/Fular-Baby-Mink-para-beb%C3%A9-de-hasta-11-kg/1099199812?skuId=1099200029)
-- 
+- Malla para lavar ropa bebe
 ## Cosas para bebe mes 1 o 2
 - Libros de contraste
 - Nutria fisher price
