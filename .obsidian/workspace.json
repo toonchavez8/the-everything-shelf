@@ -11,14 +11,12 @@
             "id": "e10cf3fc4863dc8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Pregnancy/Estudios/Chopo-CULTIVO DE EXUDADO CERVICOVAGINAL.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01-Session-fotos-Recien-Nacido"
+              "icon": "lucide-file-text",
+              "title": "Chopo-CULTIVO DE EXUDADO CERVICOVAGINAL"
             }
           }
         ]
@@ -196,11 +194,12 @@
   },
   "active": "e10cf3fc4863dc8e",
   "lastOpenFiles": [
+    "Love/Pregnancy/Estudios/Chopo-estudios-fibrinogeno.pdf",
+    "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
     "Love/Noah Alessandro/assets/Pasted image 20260424174203.png",
     "Love/Noah Alessandro/assets/Pasted image 20260424174146.png",
     "Love/Noah Alessandro/assets",
     "Japan-dev/Moving-to-Japan.md",
-    "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
     "Love/Noah Alessandro",
     "Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/Jobs.md",
@@ -231,7 +230,6 @@
     "Home/assets/Pasted image 20260130122753.png",
     "Home/assets/Pasted image 20260130113047.png",
     "Home/assets/Pasted image 20260129175346.png",
-    "Home/assets/Pasted image 20260129175335.png",
     "Toonchavez.dev/spliter.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",

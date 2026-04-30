@@ -429,6 +429,7 @@ iteration
 inference
 instincts
 influence
+impresiones
 your
 you
 yml
@@ -1531,6 +1532,8 @@ studio
 shape
 scaling
 stage
+simo
+sesi
 try
 this
 the
@@ -2146,6 +2149,9 @@ reliable
 refactors
 record
 relocate
+resolvemos
+recomendamos
+rapid
 delete
 de
 disponible
@@ -2385,6 +2391,9 @@ digo
 deeply
 delivered
 direction
+duda
+definido
+dejen
 and
 alquiler
 arrendador
@@ -2689,6 +2698,10 @@ attention
 autonomously
 artist
 alongside
+agendar
+ampliaci
+archivo
+ampliaciones
 make
 mensual
 makes
@@ -2928,6 +2941,8 @@ mocos
 maintenance
 maintain
 maintainability
+mite
+minutos
 Casa
 Currency
 Conversion
@@ -3193,6 +3208,7 @@ Corral
 Collaborate
 Comfortable
 Competitive
+Cualquier
 en
 el
 estuvo
@@ -3464,6 +3480,10 @@ entire
 edge
 early
 equity
+edad
+escenarios
+esencial
+escenario
 Distrito
 DR
 Developer
@@ -4102,6 +4122,8 @@ Role
 Responsibilities
 Requirements
 Redis
+Recibe
+Regalos
 Propiedad
 Precio
 Per
@@ -4693,6 +4715,7 @@ Anual
 About
 Application
 Able
+Ampliaci
 por
 productive
 provides
@@ -5021,6 +5044,10 @@ professional
 progressively
 pragmatic
 passionate
+peque
+pasar
+primordiales
+personalizada
 YEN
 Ya
 You
@@ -5334,6 +5361,7 @@ Staff
 Svelte
 SaaS
 Ship
+Studio
 but
 barrier
 basic
@@ -5910,6 +5938,7 @@ clean
 consuming
 creative
 compensation
+crecen
 with
 work
 when
@@ -6498,6 +6527,7 @@ growing
 generalist
 grows
 grade
+galer
 Even
 English
 Estimate
@@ -6661,6 +6691,7 @@ Ejemplo
 EKF
 Eex
 EiK
+Elegido
 useful
 ugoki
 up
@@ -7144,6 +7175,8 @@ founders
 foundation
 fluency
 fast
+fotogr
+fotos
 Often
 One
 Opportunities
@@ -8322,6 +8355,7 @@ BJM
 BjXs
 Bote
 Bonus
+Baby
 Gen
 Gengo
 Gu
@@ -8451,6 +8485,7 @@ GgP
 Gya
 GX
 GAA
+Galer
 jiss
 japon
 json
