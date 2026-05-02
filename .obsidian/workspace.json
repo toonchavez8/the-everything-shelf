@@ -6,6 +6,7 @@
       {
         "id": "5d0d9f338dfca206",
         "type": "tabs",
+        "dimension": 24.21602787456446,
         "children": [
           {
             "id": "b47c548dffae639e",
@@ -41,6 +42,7 @@
       {
         "id": "cc141593cb727c0c",
         "type": "tabs",
+        "dimension": 75.78397212543554,
         "children": [
           {
             "id": "01dcdcb205857e6c",
@@ -48,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/04-Parto.md",
+                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Parto"
+              "title": "03-Mesa-de-Regalo"
             }
           }
         ]
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/04-Parto.md",
+                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04-Parto"
+              "title": "Outline of 03-Mesa-de-Regalo"
             }
           }
         ],
