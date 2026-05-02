@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
+                "file": "Love/Pregnancy/04-Parto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Mesa-de-Regalo"
+              "title": "04-Parto"
             }
           }
         ]
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
+                "file": "Love/Pregnancy/04-Parto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-Mesa-de-Regalo"
+              "title": "Outline of 04-Parto"
             }
           }
         ],
@@ -231,6 +231,7 @@
   "active": "01dcdcb205857e6c",
   "lastOpenFiles": [
     "Love/Pregnancy/03-Mesa-de-Regalo.md",
+    "Love/Pregnancy/04-Parto.md",
     "Love/Noah Alessandro/Cuidados/02-Pañales.md",
     "Love/Pregnancy/assets/Estudio_Pañales_Desechables-Septiembre_2011.pdf",
     "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
