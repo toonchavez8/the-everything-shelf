@@ -48,14 +48,12 @@
             "id": "01dcdcb205857e6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG"
               },
-              "icon": "lucide-file",
-              "title": "03-Mesa-de-Regalo"
+              "icon": "lucide-image",
+              "title": "27112025-085627_20260504182456_9"
             }
           }
         ]
@@ -199,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/03-Mesa-de-Regalo.md",
+                "file": "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03-Mesa-de-Regalo"
+              "title": "Outline of 27112025-085627_20260504182456_9"
             }
           }
         ],
@@ -232,43 +230,44 @@
   },
   "active": "01dcdcb205857e6c",
   "lastOpenFiles": [
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura-Echo.zip",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura.zip",
+    "Love/Pregnancy/Informe Medico Laura Cristina Uribe Vargas.pdf",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_2.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_OB.PDF",
     "Love/Pregnancy/03-Mesa-de-Regalo.md",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_4.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura",
+    "Love/Pregnancy/Echo",
+    "Love/Pregnancy/New folder",
     "Love/Pregnancy/04-Parto.md",
     "Love/Noah Alessandro/Cuidados/02-Pañales.md",
     "Love/Pregnancy/assets/Estudio_Pañales_Desechables-Septiembre_2011.pdf",
     "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
     "Love/Noah Alessandro/Cuidados",
     "Love/Pregnancy/assets/Unconfirmed 611637.crdownload",
-    "Love/Pregnancy/assets/Pasted image 20260502100751.png",
     "Love/Pregnancy/assets",
     "Love/Pregnancy/02-Preguntas.md",
     "HomeServer/Untitled.md",
-    "Love/Pregnancy/Estudios/Chopo-estudios-fibrinogeno.pdf",
-    "Love/Noah Alessandro/assets/Pasted image 20260424174203.png",
-    "Love/Noah Alessandro/assets/Pasted image 20260424174146.png",
     "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-    "Love/Noah Alessandro/assets",
-    "Love/Noah Alessandro",
     "Home/01-Cotizaciones-agua.md",
     "Food/002-Banana-Bread.md",
     "conflict-files-obsidian-git.md",
     "Carro/00-Datos-de-Carros.md",
-    "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
-    "Home/pdfs/COT 106 - MIGUEL CHAVEZ PROPUESTA 1.pdf",
-    "Home/assets/Pasted image 20260414133459.png",
-    "Home/assets/Pasted image 20260414133447.png",
-    "Coto/001-Junta-abril-06.pdf",
     "Coto/001-Junta-abril-06.md",
     "Carro/01- Bitacora de Matenimiento.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Love/Pregnancy/01-BabyShower.md",
     "Food/003-Tortillas de harina.md",
     "Toonchavez.dev/Ai-presentation.md",
-    "Toonchavez.dev/assets/Pasted image 20260205211312.png",
-    "Toonchavez.dev/assets/Pasted image 20260205164945.png",
-    "Toonchavez.dev/assets/Pasted image 20260205164858.png",
-    "Home/assets/Pasted image 20260130122753.png",
-    "Home/assets/Pasted image 20260130113047.png",
     "Toonchavez.dev/spliter.md",
     "Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
@@ -276,7 +275,6 @@
     "Japan-dev/Jobs.md",
     "Japan-dev/Moving-to-Japan.md",
     "HomeServer/N8n/01-Setup-on-prem.md",
-    "Design/01-Pupusas-flyer.md",
-    "Toonchavez.dev/02-MicroSass/00-CleckStack.md"
+    "Design/01-Pupusas-flyer.md"
   ]
 }
