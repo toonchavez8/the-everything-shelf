@@ -4,6 +4,7 @@
 - [ ] Tollas humedas
 - [ ] Pijama para mama con botones
 
+![[Pasted image 20260509103724.png]]
 # Lista para hospital (Cesárea – [**Santa Maria Chapalita** ](https://maps.app.goo.gl/5TrDDC8nVhZaBgj16))
 
 ## Para mamá
