@@ -11,14 +11,12 @@
             "id": "e10cf3fc4863dc8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home/01-Cotizaciones-agua.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG"
               },
-              "icon": "lucide-file",
-              "title": "01-Cotizaciones-agua"
+              "icon": "lucide-image",
+              "title": "27112025-085627_20260504182456_1"
             }
           }
         ]
@@ -88,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -197,6 +194,11 @@
   },
   "active": "e10cf3fc4863dc8e",
   "lastOpenFiles": [
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
+    "Home/01-Cotizaciones-agua.md",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Love/Noah Alessandro/Untitled.md",
     "Love/Noah Alessandro/Guarderia-Imss",
@@ -212,11 +214,7 @@
     "Love/Pregnancy/AVISO DE ACCIDENTE Y O ENFERMEDAD (1).pdf",
     "Love/Pregnancy/assets/Pasted image 20260502100751.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_4.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_2.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
@@ -228,7 +226,6 @@
     "Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/Jobs.md",
     "Love/Pregnancy/03-Mesa-de-Regalo.md",
-    "Home/01-Cotizaciones-agua.md",
     "conflict-files-obsidian-git.md",
     "Love/Pregnancy/02-Preguntas.md",
     "Love/Pregnancy/01-BabyShower.md",
@@ -241,7 +238,6 @@
     "Toonchavez.dev/spliter.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
-    "HomeServer/N8n/01-Setup-on-prem.md",
-    "Design/01-Pupusas-flyer.md"
+    "HomeServer/N8n/01-Setup-on-prem.md"
   ]
 }
