@@ -93,8 +93,9 @@
 
 #### Preguntas Para hospital
 
-1: Preguntar Que cosas deberia de llevarme para la cesaria y la estadia para evitar tener cobros adicionales del hospital
-2: Que cosas deberia de llevar en la maleta de bebe para despues de la cessaria 
+1. Preguntar Que cosas deberia de llevarme para la cesaria y la estadia para evitar tener cobros adicionales del hospital 
+2. Que cosas deberia de llevar en la maleta de bebe para despues de la cessaria 
+3. Pregunta si ellos sacan acta de nacimiento y que papeles necesitan
 
 
 
