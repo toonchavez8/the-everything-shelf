@@ -7,5 +7,6 @@
     "downscalePercent": 100
   },
   "newFileLocation": "current",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "promptDelete": false
 }
