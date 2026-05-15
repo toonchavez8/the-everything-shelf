@@ -11,16 +11,14 @@
             "id": "7cb3b78a02eb01bc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
-                "page": 1,
-                "left": -10,
-                "top": 976,
-                "zoom": 1.4911291903548325
+                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443"
+              "icon": "lucide-file",
+              "title": "01-HomeServer-MVP-Self-Hosted-Guide"
             }
           }
         ]
@@ -55,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Nextcloud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,11 +84,12 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 201.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -154,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443"
+              "title": "Outline of 01-HomeServer-MVP-Self-Hosted-Guide"
             }
           },
           {
@@ -178,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,16 +192,15 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "7cb3b78a02eb01bc",
+  "active": "afcf58cbf0a17fa1",
   "lastOpenFiles": [
-    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
+    "HomeServer/01-HomeServer-Development-Plan.md",
+    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
     "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #0.pdf",
     "Love/Pregnancy/04-Parto.md",
     "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZBARRAGANMIGUEL DE JESUS_GMG-18787.pdf",
@@ -243,7 +242,6 @@
     "Coto/001-Junta-abril-06.md",
     "Love/Pregnancy/Baby-Shower-Sheet.md",
     "Carro/01- Bitacora de Matenimiento.md",
-    "Carro/00-Datos-de-Carros.md",
-    "Food/003-Tortillas de harina.md"
+    "Carro/00-Datos-de-Carros.md"
   ]
 }
