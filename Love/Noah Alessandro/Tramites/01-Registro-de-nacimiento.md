@@ -7,14 +7,65 @@
 La declaración de nacimiento que hacen los progenitores de manera conjunta o separada dentro de los 180 días siguientes al nacimiento.
 
 1. Llenar Solicitud para Registro de Nacimiento (proporcionada en la Oficialía del Registro Civil Municipal). 
-2. Es requisito que no hayan transcurrido 180 días naturales a partir de la fecha de nacimiento. 
-3. El Certificado de nacimiento deberá container los siguientes datos correctos: 
-	- Nombre, fecha y lugar de nacimiento de la progenitora; (Actas de Nacimiento xSiAlcaso)
-	- Fecha, hora y sexo del recién nacido; 
-	- Nombre,
-	- número de Cédula Professional y firma del médico certificante original o electrónico según el caso; 
-	- Firma y huella digital de la madre y demás características de los recién nacidos. 
-4. Deberán de revisar que la Constancia única de nacimiento, expedida por Secretaría de Salud (Certificado de nacimiento) no contenga ninguna tachadura o enmendadura y que todos los datos contenidos en el mismo sean correctos.
+2. Deberán comparecer:
+    
+    - Los progenitores (o persona distinta, en los casos previstos por la ley)
+        
+    - 2 testigos
+        
+    - El recién nacido
+        
+3. Constancia única de nacimiento expedida por Secretaría de Salud:
+    
+    - Certificado de nacimiento o Certificado Electrónico de Nacimiento
+        
+    - Presentar original y copia por ambos lados
+        
+4. Identificación official original y vigente de:
+    
+    - Los progenitores
+        
+    - Los 2 testigos que los acompañen
+        
+    
+    Identificaciones válidas:
+    
+    - INE
+        
+    - Pasaporte
+        
+    - Cédula Professional
+        
+    
+    Además:
+    
+    - Fotocopiar las identificaciones en la misma hoja por ambos lados
+        
+5. Copia certificada del acta de matrimonio:
+    
+    - **Solo si comparece uno de los progenitores**
+        
+    - No mayor a un año de antigüedad
+        
+    - Presentar original y copia
+        
+6. Copia simple de las actas de nacimiento de ambos progenitores:
+    
+    - Para complementar datos de filiación
+        
+7. Opcional:
+    
+    - CURP de los progenitores
+        
+    - CURP de los abuelos
+        
+    - CURP de los testigos
+        
+    
+    Presentar en copia para datos complementarios en el acta.
+   
+
+Presentarse a cualquier oficialía de registro civil de Zapopan, al modulo del registro de nacimientos, los progenitores, dos testigos y el recién nacido.
 ### Costos
 
 Es gratuito siempre y cuando el registro de nacimiento se realice en las Oficialías del Registro Civil Municipal de Zapopan, en horario de 9:00am a 3:00pm. 
@@ -27,5 +78,4 @@ Si el registro de nacimiento se realiza a domicilio en días y horas hábiles te
 
 
 ### Formato
-
-**No sirve la liga**
+![[Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf]]
