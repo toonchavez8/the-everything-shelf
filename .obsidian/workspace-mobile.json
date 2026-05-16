@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/01-Cotizaciones-agua.md",
+                "file": "Love/Pregnancy/05-Preguntas-Parto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Cotizaciones-agua"
+              "title": "05-Preguntas-Parto"
             }
           }
         ]
@@ -141,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home/01-Cotizaciones-agua.md",
+            "file": "Love/Pregnancy/05-Preguntas-Parto.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -178,8 +178,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6ab70a1c46aaed11",
+  "active": "190f995473f98183",
   "lastOpenFiles": [
+    "Home/01-Cotizaciones-agua.md",
     "Love/Pregnancy/01-BabyShower.md",
     "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
     "Home/assets/Pasted image 20260414133459.png",
@@ -215,7 +216,6 @@
     "/Home/assets/Pasted image 20260130122753.png",
     "/Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/001-Comprehensive-guide.md",
-    "Home/01-Cotizaciones-agua.md",
     "/Japan-dev/Jobs.md",
     "spliter.md",
     "Food/002-Banana-Bread.md",
