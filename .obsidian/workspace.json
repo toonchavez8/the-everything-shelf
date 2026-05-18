@@ -253,6 +253,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
