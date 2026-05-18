@@ -166,8 +166,6 @@ Insta: aurora_photo
 ## [DSP ](https://www.dspfotografia.com.mx/fotografia-de-bebes/)
 
 
-## [Sofia Castillo](https://soniacastillofotografia.com/galeria/)
-
 
 ## [Limon Photography](https://www.limonphoto.com/)
 

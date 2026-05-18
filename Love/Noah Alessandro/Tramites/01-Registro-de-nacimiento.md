@@ -76,6 +76,14 @@ Si el registro de nacimiento se realiza en las Oficialías del Registro Civil de
 
 Si el registro de nacimiento se realiza a domicilio en días y horas hábiles tendrá un costo de $553.00 pesos, en caso que se realice de lunes a viernes después de las 3:00pm tendrá un costo de $774.00 pesos, y en caso de que se realice sábados, domingos o días festivos tendrá un costo de $855.00 pesos.
 
+Registro civil - ext 1657
 
+Registro civil 14 Plaza Ciudadela
+Si esta abierto para registrar a un bebe
+necesitamos cita
+Es obligatoria la curp de los testigos
+Para el formato a llenar pasa algo si no se puede conseguir la curp del abuelo porque fallecio hace mas de 30 años y es de un pueblo
+Las 4 ines van en la misma hoja, o es las dos caras de la ine de cada uno en una hoja
+Si un testigo es concubino  de mi mama, entonces en parentesco con el bebe pongo abuelastro
 ### Formato
 ![[Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf]]

@@ -6,6 +6,7 @@
       {
         "id": "5d0d9f338dfca206",
         "type": "tabs",
+        "dimension": 82.26059654631082,
         "children": [
           {
             "id": "ee07d153544c963d",
@@ -53,14 +54,12 @@
             "id": "eaaab2e7b8ffa8d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-                "mode": "source",
-                "source": false
+                "file": "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01-Session-fotos-Recien-Nacido"
+              "icon": "lucide-file-text",
+              "title": "Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443"
             }
           }
         ],
@@ -69,6 +68,7 @@
       {
         "id": "2be2421ef5dff310",
         "type": "tabs",
+        "dimension": 17.739403453689167,
         "children": [
           {
             "id": "dc71708a14523291",
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
+                "file": "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-Session-fotos-Recien-Nacido"
+              "title": "Outline of Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443"
             }
           },
           {
@@ -268,19 +268,21 @@
   },
   "active": "eaaab2e7b8ffa8d3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy (1).pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel (1).pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
+    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
+    "Love/Noah Alessandro/Compras/01 primer etapa.md",
+    "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos",
+    "Love/Noah Alessandro/Tramites/New folder",
     "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
+    "Love/Noah Alessandro/Compras",
+    "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Seguro/0000000060_TARJ_URIBEVARGASLAURA CRISTINA_GMG-18787.pdf",
     "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZBARRAGANMIGUEL DE JESUS_GMG-18787.pdf",
     "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #5.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #4.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #2.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #3.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #1.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #0.pdf",
-    "Love/Pregnancy/Cartas_Autorizacion",
-    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
-    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
     "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "HomeServer/01-HomeServer-Development-Plan.md",
     "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
@@ -311,7 +313,6 @@
     "Japan-dev/001-Comprehensive-guide.md",
     "Home/01-Cotizaciones-agua.md",
     "Food/Pregnancy-cooking/001-Dieta.md",
-    "Food/003-Tortillas de harina.md",
-    "Food/002-Banana-Bread.md"
+    "Food/003-Tortillas de harina.md"
   ]
 }
