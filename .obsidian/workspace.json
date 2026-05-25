@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Noah Alessandro/Compras/Biberones.md",
+                "file": "HomeServer/01-HomeServer-Development-Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biberones"
+              "title": "01-HomeServer-Development-Plan"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Noah Alessandro/Compras/Biberones.md",
+                "file": "HomeServer/01-HomeServer-Development-Plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biberones"
+              "title": "Outline of 01-HomeServer-Development-Plan"
             }
           },
           {
@@ -205,13 +205,14 @@
   },
   "active": "eaaab2e7b8ffa8d3",
   "lastOpenFiles": [
+    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "Love/Noah Alessandro/Comida/Menu-0-12-meses-imss.pdf",
+    "Love/Noah Alessandro/Compras/Biberones.md",
     "Love/Noah Alessandro/Comida/Unconfirmed 779688.crdownload",
     "Love/Noah Alessandro/Comida",
     "Love/Noah Alessandro/New folder",
     "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
     "Love/Noah Alessandro/Compras/01 primer etapa.md",
-    "Love/Noah Alessandro/Compras/Biberones.md",
     "Toonchavez.dev/spliter.md",
     "Love/Pregnancy/05-Preguntas-Parto.md",
     "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
@@ -222,9 +223,7 @@
     "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
     "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
     "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos",
     "conflict-files-obsidian-git.md",
-    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "HomeServer/01-HomeServer-Development-Plan.md",
     "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
     "Home/Automatizaciones/03-Modelo-de-Negocio-Medicion-de-Agua.md",

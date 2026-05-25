@@ -447,16 +447,16 @@ In the last quarter of the 2-year plan, I will harden and refine everything.
 
 The table below is my planning budget, not a guarantee of market pricing. It is designed to keep me close to **MXN 120,000 total** over 8 quarters.
 
-| Quarter | Focus | Planned Spend (MXN) | Running Total (MXN) |
-|---|---:|---:|---:|
-| Q1 | ZimaBoard 2 MVP, 2 x 16TB, UPS, cables | 22,000 | 22,000 |
-| Q2 | OPNsense mini PC, managed switch, initial DNS safety | 12,000 | 34,000 |
-| Q3 | DeskPi rack, patch panel, PDU, PiKVM, cable management | 11,000 | 45,000 |
-| Q4 | first 10GbE NICs, SFP+ modules, DACs | 9,000 | 54,000 |
-| Q5 | TrueNAS base platform: board, CPU, RAM, boot SSDs, HBA, case | 24,000 | 78,000 |
-| Q6 | storage expansion drives and NVMe app pool | 16,000 | 94,000 |
-| Q7 | GPU compute node parts, PSU, cooling, one new GPU if possible | 20,000 | 114,000 |
-| Q8 | backup target, monitoring polish, replacement parts reserve | 6,000 | 120,000 |
+| Quarter |                                                         Focus | Planned Spend (MXN) | Running Total (MXN) |
+| ------- | ------------------------------------------------------------: | ------------------: | ------------------: |
+| Q1      |                        ZimaBoard 2 MVP, 2 x 16TB, UPS, cables |              22,000 |              22,000 |
+| Q2      |          OPNsense mini PC, managed switch, initial DNS safety |              12,000 |              34,000 |
+| Q3      |        DeskPi rack, patch panel, PDU, PiKVM, cable management |              11,000 |              45,000 |
+| Q4      |                          first 10GbE NICs, SFP+ modules, DACs |               9,000 |              54,000 |
+| Q5      |  TrueNAS base platform: board, CPU, RAM, boot SSDs, HBA, case |              24,000 |              78,000 |
+| Q6      |                    storage expansion drives and NVMe app pool |              16,000 |              94,000 |
+| Q7      | GPU compute node parts, PSU, cooling, one new GPU if possible |              20,000 |             114,000 |
+| Q8      |   backup target, monitoring polish, replacement parts reserve |               6,000 |             120,000 |
 
 ## Budget Notes
 
