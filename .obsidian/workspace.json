@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+                "file": "Carro/00-Datos-de-Carros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-HomeServer-MVP-Self-Hosted-Guide"
+              "title": "00-Datos-de-Carros"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Nextcloud",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,10 +194,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "afcf58cbf0a17fa1",
+  "active": "7cb3b78a02eb01bc",
   "lastOpenFiles": [
-    "HomeServer/01-HomeServer-Development-Plan.md",
     "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+    "HomeServer/01-HomeServer-Development-Plan.md",
     "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
     "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
     "Love/Pregnancy/Cartas_Autorizacion/Carta de autorización DM Folio_PO01GMEPNA2651100T #0.pdf",
