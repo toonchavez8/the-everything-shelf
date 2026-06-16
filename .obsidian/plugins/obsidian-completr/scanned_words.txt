@@ -6811,6 +6811,7 @@ needs
 networking
 next
 nombre
+necesitan
 vault
 vocabulary
 viajar
@@ -10294,6 +10295,8 @@ Modelo
 MAGMA
 MHYNC
 Motor
+Maria
+MHFAB
 of
 or
 own
@@ -13930,6 +13933,7 @@ shutdown
 sizing
 selective
 suegra
+sacan
 try
 this
 the
@@ -26527,6 +26531,7 @@ Compact
 Cliente
 CARMEI
 Chasis
+Chapalita
 en
 el
 estuvo
@@ -31509,6 +31514,7 @@ Notes
 Needed
 Networking
 Nombre
+NRY
 Jap
 Jp
 Japan
@@ -46162,6 +46168,7 @@ Switch
 Stage
 SAS
 SZK
+Santa
 but
 barrier
 basic
@@ -55747,6 +55754,7 @@ Kuma
 Kopia
 Keep
 KVM
+KVF
 growth
 glossaries
 gai
@@ -69241,6 +69249,7 @@ HBA
 HBAs
 High
 Harden
+Hospital
 Quality
 Quantity
 Que
