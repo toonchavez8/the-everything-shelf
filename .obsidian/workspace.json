@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Carro/00-Datos-de-Carros.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -95,8 +95,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
         ]
@@ -182,6 +182,16 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "6d05b07a98b35246",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
               "icon": "calendar-days",
               "title": "Calendar"
             }
@@ -196,7 +206,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -206,7 +215,8 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "sheet-plus:Create excel file": false
     }
   },
   "active": "8692b085abdbc523",
