@@ -10294,6 +10294,7 @@ Modelo
 MAGMA
 MHYNC
 Motor
+MHFAB
 of
 or
 own
@@ -31509,6 +31510,7 @@ Notes
 Needed
 Networking
 Nombre
+NRY
 Jap
 Jp
 Japan
@@ -55747,6 +55749,7 @@ Kuma
 Kopia
 Keep
 KVM
+KVF
 growth
 glossaries
 gai
