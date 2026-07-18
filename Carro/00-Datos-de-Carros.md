@@ -15,6 +15,8 @@
 ## 🚗 Vehículo 2 (a Nombre De mamá)
 
 - **Nombre:** Dominga Barragan Abarca  
+- **Unidad:** Toyota Avanza
+- **Color:** Plata
 - **Placas:** KVF675A  
 - **NIV:** MHFAB1BY7T3183413  
 - **Motor:** 2NRY633161    
