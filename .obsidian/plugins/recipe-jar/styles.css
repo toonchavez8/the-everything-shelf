@@ -1,0 +1,220 @@
+.recipe-jar-view .rj-shell {
+  color: var(--text-normal);
+  padding: 24px;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.recipe-jar-view .rj-header {
+  border: 1px solid var(--background-modifier-border);
+  background: linear-gradient(135deg, var(--background-primary), var(--background-secondary));
+  border-radius: 22px;
+  padding: 28px;
+  margin-bottom: 18px;
+}
+
+.recipe-jar-view .rj-header h1,
+.recipe-jar-view .rj-detail-hero h1 {
+  margin: 4px 0 8px;
+  font-size: clamp(2rem, 5vw, 4rem);
+  letter-spacing: -0.05em;
+  line-height: 0.95;
+}
+
+.recipe-jar-view .rj-eyebrow,
+.recipe-jar-view .rj-card-kicker,
+.recipe-jar-view .rj-card-meta {
+  color: var(--text-muted);
+  font-size: var(--font-ui-small);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.recipe-jar-view .rj-actions,
+.recipe-jar-view .rj-search-actions,
+.recipe-jar-view .rj-tags,
+.recipe-jar-view .rj-serving-controls,
+.recipe-jar-view .rj-card-actions,
+.recipe-jar-view .rj-card-top,
+.recipe-jar-view .rj-timers {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.recipe-jar-view .rj-actions {
+  margin: 16px 0;
+}
+
+.recipe-jar-view .rj-search-actions {
+  margin-top: 8px;
+}
+
+.recipe-jar-view button,
+.recipe-jar-modal button {
+  border-radius: 999px;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  padding: 8px 13px;
+  cursor: pointer;
+}
+
+.recipe-jar-view button:hover,
+.recipe-jar-modal button:hover {
+  border-color: var(--interactive-accent);
+}
+
+.recipe-jar-view button.mod-cta,
+.recipe-jar-modal button.mod-cta {
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  border-color: var(--interactive-accent);
+}
+
+.recipe-jar-view button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.recipe-jar-view .rj-search,
+.recipe-jar-modal input,
+.recipe-jar-modal textarea {
+  width: 100%;
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  border-radius: 14px;
+  padding: 10px 12px;
+}
+
+.recipe-jar-view .rj-tags {
+  margin: 12px 0;
+}
+
+.recipe-jar-view .rj-tags .is-active {
+  border-color: var(--interactive-accent);
+  color: var(--interactive-accent);
+}
+
+.recipe-jar-view .rj-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(220px, 100%), 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.recipe-jar-view .rj-card,
+.recipe-jar-view .rj-panel,
+.recipe-jar-view .rj-detail-hero,
+.recipe-jar-view .rj-empty {
+  border: 1px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  border-radius: 18px;
+  padding: 18px;
+}
+
+.recipe-jar-view .rj-card {
+  min-height: 210px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow: hidden;
+}
+
+.recipe-jar-view .rj-card-top {
+  justify-content: space-between;
+}
+
+.recipe-jar-view .rj-title-button {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  color: var(--text-normal);
+  text-align: left;
+  font-size: 1.35rem;
+  font-weight: 750;
+  line-height: 1.05;
+  overflow-wrap: anywhere;
+  hyphens: auto;
+  max-width: 100%;
+}
+
+.recipe-jar-view .rj-image-button {
+  padding: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  background: var(--background-secondary);
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+
+.recipe-jar-view .rj-card-image,
+.recipe-jar-view .rj-detail-image {
+  display: block;
+  width: 100%;
+  object-fit: cover;
+}
+
+.recipe-jar-view .rj-card-image {
+  height: 100%;
+}
+
+.recipe-jar-view .rj-detail-image {
+  max-height: 340px;
+  border-radius: 16px;
+  margin-bottom: 16px;
+}
+
+.recipe-jar-view .rj-card-sample {
+  color: var(--text-muted);
+  line-height: 1.45;
+  flex: 1;
+}
+
+.recipe-jar-view .rj-card-actions {
+  margin-top: auto;
+}
+
+.recipe-jar-view .rj-back {
+  margin-bottom: 14px;
+}
+
+.recipe-jar-view .rj-detail-grid {
+  display: grid;
+  grid-template-columns: minmax(220px, 0.8fr) minmax(300px, 1.2fr);
+  gap: 14px;
+  margin: 14px 0;
+}
+
+.recipe-jar-view .rj-serving-controls {
+  margin: 16px 0;
+}
+
+.recipe-jar-view .rj-serving-controls strong {
+  min-width: 2ch;
+  text-align: center;
+}
+
+.recipe-jar-view .rj-panel li {
+  margin: 8px 0;
+}
+
+.recipe-jar-modal {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (max-width: 700px) {
+  .recipe-jar-view .rj-shell {
+    padding: 14px;
+  }
+
+  .recipe-jar-view .rj-detail-grid {
+    grid-template-columns: 1fr;
+  }
+}

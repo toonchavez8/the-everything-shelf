@@ -1,0 +1,10 @@
+{
+  "id": "recipe-jar",
+  "name": "Recipe Jar",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Save clean recipe cards as local markdown notes in Obsidian.",
+  "author": "Recipe Jar contributors",
+  "authorUrl": "https://github.com/sbmagar13/recipe-jar",
+  "isDesktopOnly": false
+}

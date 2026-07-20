@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "cc141593cb727c0c",
+        "id": "1ffaa438cf93b93d",
         "type": "tabs",
         "children": [
           {
-            "id": "01dcdcb205857e6c",
+            "id": "7cb3b78a02eb01bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carro/00-Datos-de-Carros.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00-Datos-de-Carros"
+            }
+          },
+          {
+            "id": "8692b085abdbc523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,35 +36,59 @@
             }
           },
           {
-            "id": "3edfbc015eee348b",
+            "id": "2bc72bf7a9f4e19b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Noah Alessandro/Compras/Biberones.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biberones"
+              "title": "Welcome"
             }
           },
           {
-            "id": "0da2fa3baf16a461",
+            "id": "b54474ce56d91cbd",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://pigeonlatam.com/productos/biberon-de-plastico-boca-ancha-softouch/",
-                "title": "Biberón de Plástico Boca Ancha SofTouch - Productos",
-                "mode": "webview"
+                "file": "Food/001-Cinnemon-Rolls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Biberón de Plástico Boca Ancha SofTouch - Productos"
+              "icon": "lucide-file",
+              "title": "001-Cinnemon-Rolls"
+            }
+          },
+          {
+            "id": "c313a1dbf36388eb",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "My Jar"
+            }
+          },
+          {
+            "id": "fb3557b696c1f2f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Recipes/the-original-marry-me-chicken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the-original-marry-me-chicken"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,15 +147,15 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 200
   },
   "right": {
     "id": "63666fcef843a639",
@@ -176,7 +214,32 @@
             }
           },
           {
-            "id": "b2b9d1063a46476b",
+            "id": "34364a8028fef347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-HomeServer-MVP-Self-Hosted-Guide"
+            }
+          },
+          {
+            "id": "730edadd8c57d33e",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "6d05b07a98b35246",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -184,31 +247,17 @@
               "icon": "calendar-days",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "34364a8028fef347",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -218,55 +267,58 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "sheet-plus:Create excel file": false,
+      "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "0da2fa3baf16a461",
+  "active": "c313a1dbf36388eb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Love/Noah Alessandro/Compras/Biberones.md",
-    "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
-    "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
+    "Food/Recipes/key-lime-pie-ice-cream-sandwich.md",
+    "Food/001-Cinnemon-Rolls.md",
+    "Food/Recipes/the-original-marry-me-chicken.md",
+    "Food/Recipes/stick-of-butter-baked-rice.md",
+    "Food/Recipes/bannana-bread.md",
+    "Food/002-Banana-Bread.md",
+    "Food/Recipes/easy-low-calorie-53g-protein-mcgriddle.md",
+    "Welcome.md",
+    "Food/003-Tortillas de harina.md",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
+    "Food/Recipes",
+    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
+    "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
+    "HomeServer/01-HomeServer-Development-Plan.md",
+    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+    "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
     "Carro/00-Datos-de-Carros.md",
-    "Excel 2026-06-15 21.09.18.univer.md",
-    "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
-    "Love/Pregnancy/Seguro/0000000060_CERT_CHAVEZURIBENOAH ALESSANDRO_GMG-18787.pdf",
-    "Love/Pregnancy/04-Parto.md",
-    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+    "conflict-files-obsidian-git.md",
+    "Love/Pregnancy/05-Preguntas-Parto.md",
     "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
-    "Love/Noah Alessandro/Tramites/Formatos",
     "Love/Noah Alessandro/Tramites/Documetos",
-    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
+    "Love/Noah Alessandro/Compras/Biberones.md",
     "Love/Noah Alessandro/Compras/01 primer etapa.md",
-    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
-    "HomeServer/01-HomeServer-Development-Plan.md",
+    "Love/Noah Alessandro/Compras",
+    "Love/Noah Alessandro/Comida/Menu-0-12-meses-imss.pdf",
+    "Love/Noah Alessandro/Comida",
+    "Love/Pregnancy/04-Parto.md",
+    "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
+    "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
+    "Love/Noah Alessandro/Cuidados/02-Pañales.md",
+    "Home/01-Cotizaciones-agua.md",
     "Home/Automatizaciones/03-Modelo-de-Negocio-Medicion-de-Agua.md",
-    "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
     "Home/Automatizaciones/01-Medicion-de-Agua.md",
-    "Love/Pregnancy/assets/Pasted image 20260509103724.png",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
+    "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
+    "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
+    "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_2.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
+    "Love/Pregnancy/assets/Pasted image 20260509103724.png",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
-    "Love/Pregnancy/03-Mesa-de-Regalo.md",
-    "Love/Noah Alessandro/Cuidados/02-Pañales.md",
-    "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
-    "Love/Pregnancy/02-Preguntas.md",
-    "HomeServer/Untitled.md",
-    "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-    "Home/01-Cotizaciones-agua.md",
-    "Food/002-Banana-Bread.md",
-    "Coto/001-Junta-abril-06.md",
-    "Carro/01- Bitacora de Matenimiento.md",
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
-    "Love/Pregnancy/01-BabyShower.md"
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
+    "Love/Pregnancy/assets/Pasted image 20260502100751.png",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_4.JPG"
   ]
 }
