@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,13 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Noah Alessandro/Compras/Biberones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biberones"
+              "title": "Outline"
             }
           }
         ],
@@ -222,14 +221,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3edfbc015eee348b",
+  "active": "0da2fa3baf16a461",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Love/Noah Alessandro/Compras/Biberones.md",
+    "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Carro/00-Datos-de-Carros.md",
     "Excel 2026-06-15 21.09.18.univer.md",
-    "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
     "Love/Pregnancy/Seguro/0000000060_CERT_CHAVEZURIBENOAH ALESSANDRO_GMG-18787.pdf",
     "Love/Pregnancy/04-Parto.md",
@@ -240,7 +240,6 @@
     "Love/Noah Alessandro/Tramites/Formatos",
     "Love/Noah Alessandro/Tramites/Documetos",
     "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
-    "Love/Noah Alessandro/Tramites",
     "Love/Noah Alessandro/Compras/01 primer etapa.md",
     "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "HomeServer/01-HomeServer-Development-Plan.md",
