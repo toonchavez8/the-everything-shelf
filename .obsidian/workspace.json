@@ -30,6 +30,34 @@
               "icon": "lucide-file",
               "title": "01-Controlar-bambu"
             }
+          },
+          {
+            "id": "5c39446c8c850259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shopping-list-2026-07-20"
+            }
+          },
+          {
+            "id": "69447fd94e5d8b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/002-Banana-Bread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002-Banana-Bread"
+            }
           }
         ]
       }
@@ -217,16 +245,20 @@
   },
   "active": "a3377d1819444a03",
   "lastOpenFiles": [
+    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+    "Home/Jardin/01-Controlar-bambu.md",
     "Food/Recipes/baked-mac-and-cheese.md",
     "Food/Recipes/creamy-homemade-baked-mac-and-cheese.md",
     "Food/Recipes/crispy-chipotle-ranch-potato-salad-recipe-by-tasty.md",
+    "Food/002-Banana-Bread.md",
+    "Food/001-Cinnemon-Rolls.md",
+    "Food/Recipes/Shopping Lists",
     "Home/Jardin/assets/Pasted image 20260720152849.png",
     "Home/Jardin/assets/Pasted image 20260720152703.png",
     "Home/Jardin/assets/Pasted image 20260720152418.png",
     "Home/Jardin/assets/Pasted image 20260720152403.png",
     "Home/Jardin/assets/Pasted image 20260720152312.png",
     "Home/Jardin/assets",
-    "Home/Jardin/01-Controlar-bambu.md",
     "Home/Jardin/Untitled",
     "Home/Jardin",
     "Food/Recipes/panzanella-salad.md",
@@ -235,11 +267,7 @@
     "Food/Recipes/key-lime-pie-ice-cream-sandwich.md",
     "Carro/00-Datos-de-Carros.md",
     "Food/003-Tortillas de harina.md",
-    "Food/001-Cinnemon-Rolls.md",
     "Food/Recipes/the-original-marry-me-chicken.md",
-    "Food/002-Banana-Bread.md",
-    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
-    "Food/Recipes/Shopping Lists",
     "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Food/Recipes/stick-of-butter-baked-rice.md",
@@ -257,7 +285,6 @@
     "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
     "Love/Noah Alessandro/Compras/Biberones.md",
-    "Love/Noah Alessandro/Compras/01 primer etapa.md",
     "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
     "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
