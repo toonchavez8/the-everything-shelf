@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3377d1819444a03",
-            "type": "leaf",
-            "state": {
-              "type": "recipe-jar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "My Jar"
-            }
-          },
-          {
             "id": "7be74793780e6c39",
             "type": "leaf",
             "state": {
@@ -58,8 +48,19 @@
               "icon": "lucide-file",
               "title": "002-Banana-Bread"
             }
+          },
+          {
+            "id": "bf7161125ae00402",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "My Jar"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,14 +244,17 @@
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "a3377d1819444a03",
+  "active": "bf7161125ae00402",
   "lastOpenFiles": [
+    "Food/Recipes/molletes-de-frijoles-y-queso.md",
+    "Food/002-Banana-Bread.md",
+    "Food/Recipes/spinach-quesadilla-recipe.md",
+    "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
     "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
     "Home/Jardin/01-Controlar-bambu.md",
     "Food/Recipes/baked-mac-and-cheese.md",
     "Food/Recipes/creamy-homemade-baked-mac-and-cheese.md",
     "Food/Recipes/crispy-chipotle-ranch-potato-salad-recipe-by-tasty.md",
-    "Food/002-Banana-Bread.md",
     "Food/001-Cinnemon-Rolls.md",
     "Food/Recipes/Shopping Lists",
     "Home/Jardin/assets/Pasted image 20260720152849.png",
@@ -280,11 +284,9 @@
     "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
     "conflict-files-obsidian-git.md",
-    "Love/Pregnancy/05-Preguntas-Parto.md",
     "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
-    "Love/Noah Alessandro/Compras/Biberones.md",
     "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
     "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
