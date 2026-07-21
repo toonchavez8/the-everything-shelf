@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carro/00-Datos-de-Carros.md",
+                "file": "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Datos-de-Carros"
+              "title": "01-Inscripción-a-Guarderías"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carro/00-Datos-de-Carros.md",
+                "file": "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-Datos-de-Carros"
+              "title": "Outline of 01-Inscripción-a-Guarderías"
             }
           },
           {
@@ -205,8 +205,16 @@
   },
   "active": "eaaab2e7b8ffa8d3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
+    "Love/Noah Alessandro/Guarderia-Imss/assets",
+    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
+    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
+    "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Carro/00-Datos-de-Carros.md",
+    "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
     "Love/Pregnancy/Seguro/0000000060_CERT_CHAVEZURIBENOAH ALESSANDRO_GMG-18787.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
@@ -215,17 +223,11 @@
     "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
     "Love/Noah Alessandro/Comida/Menu-0-12-meses-imss.pdf",
     "Love/Noah Alessandro/Compras/Biberones.md",
-    "Love/Noah Alessandro/Comida/Unconfirmed 779688.crdownload",
-    "Love/Noah Alessandro/Comida",
-    "Love/Noah Alessandro/New folder",
     "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
     "Love/Noah Alessandro/Compras/01 primer etapa.md",
     "Toonchavez.dev/spliter.md",
     "Love/Pregnancy/05-Preguntas-Parto.md",
     "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy (1).pdf",
-    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
     "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
     "Home/Automatizaciones/03-Modelo-de-Negocio-Medicion-de-Agua.md",
     "Home/Automatizaciones/01-Medicion-de-Agua.md",
@@ -244,12 +246,10 @@
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
-    "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Love/Noah Alessandro/Cuidados/02-Pañales.md",
     "Love/Pregnancy/03-Mesa-de-Regalo.md",
     "Love/Pregnancy/02-Preguntas.md",
     "Love/Pregnancy/01-BabyShower.md",
-    "Japan-dev/001-Comprehensive-guide.md",
-    "Home/01-Cotizaciones-agua.md"
+    "Japan-dev/001-Comprehensive-guide.md"
   ]
 }
