@@ -4,11 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e2d590be8dca4552",
+        "id": "5044ee17b8f9c529",
         "type": "tabs",
         "children": [
           {
-            "id": "5e33247f5a8a9b58",
+            "id": "7be74793780e6c39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Jardin/01-Controlar-bambu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Controlar-bambu"
+            }
+          },
+          {
+            "id": "5c39446c8c850259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shopping-list-2026-07-20"
+            }
+          },
+          {
+            "id": "69447fd94e5d8b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/002-Banana-Bread.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002-Banana-Bread"
+            }
+          },
+          {
+            "id": "582c83350f7c7b50",
             "type": "leaf",
             "state": {
               "type": "recipe-jar-view",
@@ -17,7 +59,8 @@
               "title": "My Jar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 309.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -143,7 +186,22 @@
             }
           },
           {
-            "id": "b2b9d1063a46476b",
+            "id": "34364a8028fef347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-HomeServer-MVP-Self-Hosted-Guide"
+            }
+          },
+          {
+            "id": "730edadd8c57d33e",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -153,21 +211,7 @@
             }
           },
           {
-            "id": "34364a8028fef347",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "c16851b600189d0e",
+            "id": "6d05b07a98b35246",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -177,15 +221,15 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -196,56 +240,57 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
+      "sheet-plus:Create excel file": false,
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "5e33247f5a8a9b58",
+  "active": "582c83350f7c7b50",
   "lastOpenFiles": [
-    "Food/Recipes/feta-egg-olive-pita.md",
-    "Food/Recipes/hash-brown-breakfast-sandwich.md",
-    "Food/Recipes/muffin-tin-omelets-with-bell-pepper-black-beans-jack-cheese.md",
-    "Food/Recipes/apple-pie-baked-oats.md",
-    "Food/Recipes/make-ahead-freezer-breakfast-burritos-with-eggs-cheese-spinach.md",
-    "Food/Recipes/anti-inflammatory-breakfast-bowl.md",
-    "Food/Recipes/torrejas-mexican-french-toast.md",
-    "Food/Recipes/the-easiest-migas-recipe.md",
-    "Food/Recipes/enchiladas-verdes.md",
-    "Food/Recipes/mexican-beef-enchiladas.md",
-    "Food/Recipes/chicken-al-pastor.md",
-    "Food/Recipes/ensalada-de-coditos-con-jam-n-macaroni-ham-salad.md",
-    "Food/Recipes/enfrijoladas.md",
-    "Food/Recipes/chicken-tinga.md",
-    "Food/Recipes/mexican-shrimp-cocktail.md",
-    "Food/Recipes/queso-fundido.md",
-    "Food/Recipes/chicken-tacos.md",
-    "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
-    "Food/Recipes/carne-en-su-jugo.md",
-    "Food/Recipes/beef-burritos.md",
-    "Food/Recipes/paste-recipe-text-or-instagram-caption.md",
-    "Food/Recipes/for-the-chicken.md",
-    "conflict-files-obsidian-git.md",
-    "Home/Jardin/assets/Pasted image 20260720152849.png",
-    "Home/Jardin/assets/Pasted image 20260720152403.png",
-    "Home/Jardin/assets/Pasted image 20260720152703.png",
-    "Home/Jardin/assets/Pasted image 20260720152418.png",
-    "Home/Jardin/assets/Pasted image 20260720152312.png",
-    "Home/Jardin/assets",
-    "Home/Jardin/01-Controlar-bambu.md",
-    "Home/Jardin",
-    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
-    "Food/Recipes/Shopping Lists",
-    "Food/Recipes/spinach-quesadilla-recipe.md",
-    "Food/Recipes",
     "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
     "Love/Noah Alessandro/Guarderia-Imss/assets",
-    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+    "Food/Recipes/torrejas-mexican-french-toast.md",
+    "Food/Recipes/the-easiest-migas-recipe.md",
+    "Food/Recipes/queso-fundido.md",
+    "Food/Recipes/muffin-tin-omelets-with-bell-pepper-black-beans-jack-cheese.md",
+    "Food/Recipes/mexican-shrimp-cocktail.md",
+    "Food/Recipes/mexican-beef-enchiladas.md",
+    "Food/Recipes/make-ahead-freezer-breakfast-burritos-with-eggs-cheese-spinach.md",
+    "Food/Recipes/hash-brown-breakfast-sandwich.md",
+    "Food/Recipes/feta-egg-olive-pita.md",
+    "Food/Recipes/ensalada-de-coditos-con-jam-n-macaroni-ham-salad.md",
+    "Food/Recipes/enfrijoladas.md",
+    "Food/Recipes/enchiladas-verdes.md",
+    "Food/Recipes/chicken-tinga.md",
+    "Food/Recipes/chicken-tacos.md",
+    "Food/Recipes/chicken-al-pastor.md",
+    "Food/Recipes/carne-en-su-jugo.md",
+    "Food/Recipes/beef-burritos.md",
+    "Food/Recipes/apple-pie-baked-oats.md",
+    "Food/Recipes/anti-inflammatory-breakfast-bowl.md",
+    "Food/Recipes/molletes-de-frijoles-y-queso.md",
+    "Food/002-Banana-Bread.md",
+    "Food/Recipes/spinach-quesadilla-recipe.md",
+    "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
+    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+    "Home/Jardin/01-Controlar-bambu.md",
+    "Food/Recipes/Shopping Lists",
+    "Home/Jardin/assets/Pasted image 20260720152849.png",
+    "Home/Jardin/assets/Pasted image 20260720152703.png",
+    "Home/Jardin/assets/Pasted image 20260720152418.png",
+    "Home/Jardin/assets/Pasted image 20260720152403.png",
+    "Home/Jardin/assets/Pasted image 20260720152312.png",
+    "Home/Jardin/assets",
+    "Home/Jardin/Untitled",
+    "Home/Jardin",
+    "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
+    "Food/Recipes",
+    "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
     "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
-    "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
     "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
     "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
-    "Toonchavez.dev/assets/Pasted image 20260205211312.png",
-    "Toonchavez.dev/assets/Pasted image 20260205164945.png"
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
+    "Love/Pregnancy/assets/Pasted image 20260509103724.png",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG"
   ]
 }
