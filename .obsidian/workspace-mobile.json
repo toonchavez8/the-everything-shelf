@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1416149327bf5db1",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-meal-planner",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Meal planner"
+            }
+          },
+          {
             "id": "2e85d6e4f934daae",
             "type": "leaf",
             "state": {
@@ -49,18 +59,14 @@
             "id": "51525f24bea44c4b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "brazilian-lemonade-cocktail-recipe-by-tasty"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,8 +224,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "42662dbf0108e058",
+  "active": "51525f24bea44c4b",
   "lastOpenFiles": [
+    "Food/Meal Plans/weekly-meal-plan-2026-07-21-2.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-2.md",
+    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
     "Love/Pregnancy/05-Preguntas-Parto.md",
     "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
     "Home/01-Cotizaciones-agua.md",
@@ -262,9 +271,6 @@
     "spliter.md",
     "Food/002-Banana-Bread.md",
     "Design/01-Pupusas-flyer.md",
-    "/Food/Pregnancy-cooking/001-Dieta.md",
-    "/Food/002-Banana-Bread.md",
-    "/Design/01-Pupusas-flyer.md",
-    "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md"
+    "/Food/Pregnancy-cooking/001-Dieta.md"
   ]
 }
