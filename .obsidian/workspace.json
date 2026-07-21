@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "582c83350f7c7b50",
+            "id": "9607aa5c563ca130",
             "type": "leaf",
             "state": {
               "type": "recipe-jar-view",
@@ -60,21 +60,45 @@
             }
           },
           {
-            "id": "e25154b389afc4cb",
+            "id": "a02cef4eb9667c38",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-meal-planner",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Meal planner"
+            }
+          },
+          {
+            "id": "416c5225fbd8de01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Food/Recipes/pancake-breakfast-sandwich-recipe-by-tasty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "pancake-breakfast-sandwich-recipe-by-tasty"
+            }
+          },
+          {
+            "id": "dc670250420742d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weekly-shopping-list-2026-07-21"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " rings mold",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -258,36 +282,40 @@
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "e25154b389afc4cb",
+  "active": "a02cef4eb9667c38",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Food/Recipes/sweet-potato-waffle-breakfast-sandwich.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-07-21.md",
+    "Food/Recipes/pancake-breakfast-sandwich-recipe-by-tasty.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-21.md",
+    "Food/Shopping Lists",
+    "Food/Meal Plans",
+    "Food/Recipes/honey-soy-glazed-salmon-recipe.md",
+    "Food/Recipes/shrimp-and-avocado-taco-salad-recipe.md",
+    "Food/Recipes/alfredo-chicken-bake-recipe.md",
+    "Food/Recipes/chicken-tortilla-soup-recipe.md",
+    "Food/Recipes/one-pot-pesto-chicken-pasta-recipe.md",
+    "Food/Recipes/italian-style-bolognese-rag-recipe.md",
+    "Food/Recipes/one-pan-roasted-chicken-and-sweet-potatoes-recipe.md",
+    "Food/Recipes/homemade-chicken-shawarma-with-ben-stiller-and-ahmed-badr-recipe.md",
+    "Food/Recipes/chipotles-chicken-recipe.md",
+    "Food/Recipes/low-carb-zucchini-ravioli-recipe.md",
+    "Food/Recipes/chili-lime-baked-tilapia-with-avocado-crema-recipe.md",
+    "Food/Recipes/taco-stuffed-peppers-recipe.md",
+    "Food/Recipes/garlic-shrimp-scampi-recipe.md",
+    "Food/Recipes/original-orange-chicken-by-panda-express-recipe.md",
+    "Food/Recipes/zucchini-enchiladas-recipe.md",
+    "Food/Recipes/sheet-tray-fajitas-rice-bowl-recipe.md",
+    "Food/Recipes/chicken-ranch-wrap-recipe.md",
+    "Food/Recipes/cilantro-lime-chicken-veggie-rice-meal-prep-recipe.md",
+    "Food/Recipes/keto-bacon-cauliflower-mac-n-cheese-recipe.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-3.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-07-21-3.md",
+    "Food/002-Banana-Bread.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-2.md",
+    "Shopping Lists",
+    "Meal Plans",
     "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
     "Love/Noah Alessandro/Guarderia-Imss/assets",
-    "Food/Recipes/torrejas-mexican-french-toast.md",
-    "Food/Recipes/the-easiest-migas-recipe.md",
-    "Food/Recipes/queso-fundido.md",
-    "Food/Recipes/muffin-tin-omelets-with-bell-pepper-black-beans-jack-cheese.md",
-    "Food/Recipes/mexican-shrimp-cocktail.md",
-    "Food/Recipes/mexican-beef-enchiladas.md",
-    "Food/Recipes/make-ahead-freezer-breakfast-burritos-with-eggs-cheese-spinach.md",
-    "Food/Recipes/hash-brown-breakfast-sandwich.md",
-    "Food/Recipes/feta-egg-olive-pita.md",
-    "Food/Recipes/ensalada-de-coditos-con-jam-n-macaroni-ham-salad.md",
-    "Food/Recipes/enfrijoladas.md",
-    "Food/Recipes/enchiladas-verdes.md",
-    "Food/Recipes/chicken-tinga.md",
-    "Food/Recipes/chicken-tacos.md",
-    "Food/Recipes/chicken-al-pastor.md",
-    "Food/Recipes/carne-en-su-jugo.md",
-    "Food/Recipes/beef-burritos.md",
-    "Food/Recipes/apple-pie-baked-oats.md",
-    "Food/Recipes/anti-inflammatory-breakfast-bowl.md",
-    "Food/Recipes/molletes-de-frijoles-y-queso.md",
-    "Food/002-Banana-Bread.md",
-    "Food/Recipes/spinach-quesadilla-recipe.md",
-    "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
-    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
     "Food/Recipes/Shopping Lists",
     "Home/Jardin/assets/Pasted image 20260720152849.png",
     "Home/Jardin/assets/Pasted image 20260720152703.png",
@@ -298,10 +326,6 @@
     "Home/Jardin/Untitled",
     "Home/Jardin",
     "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
-    "Food/Recipes",
-    "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
     "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
     "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",

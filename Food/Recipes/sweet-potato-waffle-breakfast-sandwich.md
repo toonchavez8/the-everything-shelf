@@ -15,8 +15,8 @@ video: null
 tags:
   - "breakfast"
 savedAt: "2026-07-21T12:27:02.384Z"
-cookedCount: 0
-lastCooked: ""
+cookedCount: 1
+lastCooked: "2026-07-21T15:57:55.441Z"
 ---
 
 # Sweet Potato Waffle Breakfast Sandwich

@@ -1,7 +1,7 @@
 {
   "recipeFolder": "Food/Recipes",
-  "mealPlanFolder": "Meal Plans",
-  "shoppingListFolder": "Shopping Lists",
+  "mealPlanFolder": "Food/Meal Plans",
+  "shoppingListFolder": "Food/Shopping Lists",
   "enableInstagramFetch": true,
   "excludeCondimentsFromShoppingList": true,
   "convertProteinsToMetric": true,
