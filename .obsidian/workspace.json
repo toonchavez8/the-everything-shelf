@@ -4,53 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5044ee17b8f9c529",
+        "id": "837115dd4d33e2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "7be74793780e6c39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home/Jardin/01-Controlar-bambu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-Controlar-bambu"
-            }
-          },
-          {
-            "id": "5c39446c8c850259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shopping-list-2026-07-20"
-            }
-          },
-          {
-            "id": "69447fd94e5d8b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Food/002-Banana-Bread.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "002-Banana-Bread"
-            }
-          },
-          {
-            "id": "9607aa5c563ca130",
+            "id": "e0813d361050a831",
             "type": "leaf",
             "state": {
               "type": "recipe-jar-view",
@@ -60,7 +18,7 @@
             }
           },
           {
-            "id": "a02cef4eb9667c38",
+            "id": "9f754bcd420b720a",
             "type": "leaf",
             "state": {
               "type": "recipe-jar-meal-planner",
@@ -70,35 +28,34 @@
             }
           },
           {
-            "id": "416c5225fbd8de01",
+            "id": "d22be2c9ec79423b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Recipes/pancake-breakfast-sandwich-recipe-by-tasty.md",
+                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pancake-breakfast-sandwich-recipe-by-tasty"
+              "title": "weekly-shopping-list-2026-07-22"
             }
           },
           {
-            "id": "dc670250420742d9",
+            "id": "963e630d1a7103ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-21.md",
+                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weekly-shopping-list-2026-07-21"
+              "title": "weekly-shopping-list-2026-07-22-2"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " rings mold",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 238.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -224,22 +181,7 @@
             }
           },
           {
-            "id": "34364a8028fef347",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 01-HomeServer-MVP-Self-Hosted-Guide"
-            }
-          },
-          {
-            "id": "730edadd8c57d33e",
+            "id": "b2b9d1063a46476b",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -249,7 +191,22 @@
             }
           },
           {
-            "id": "6d05b07a98b35246",
+            "id": "34364a8028fef347",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22-2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of weekly-shopping-list-2026-07-22-2"
+            }
+          },
+          {
+            "id": "c16851b600189d0e",
             "type": "leaf",
             "state": {
               "type": "journal-calendar",
@@ -259,15 +216,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -278,57 +235,56 @@
       "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "sheet-plus:Create excel file": false,
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "a02cef4eb9667c38",
+  "active": "e0813d361050a831",
   "lastOpenFiles": [
-    "Food/Meal Plans/weekly-meal-plan-2026-07-21.md",
-    "Food/Recipes/pancake-breakfast-sandwich-recipe-by-tasty.md",
+    "Food/Recipes/hearty-zuppa-toscana-recipe.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-07-22-2.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-22-2.md",
+    "Love/Noah Alessandro/Comida/Menu-0-12-meses-imss.pdf",
+    "Food/Meal Plans/weekly-meal-plan-2026-07-22.md",
+    "Food/Recipes/sheet-tray-fajitas-rice-bowl-recipe.md",
     "Food/Shopping Lists/weekly-shopping-list-2026-07-21.md",
     "Food/Shopping Lists",
-    "Food/Meal Plans",
-    "Food/Recipes/honey-soy-glazed-salmon-recipe.md",
-    "Food/Recipes/shrimp-and-avocado-taco-salad-recipe.md",
-    "Food/Recipes/alfredo-chicken-bake-recipe.md",
-    "Food/Recipes/chicken-tortilla-soup-recipe.md",
-    "Food/Recipes/one-pot-pesto-chicken-pasta-recipe.md",
-    "Food/Recipes/italian-style-bolognese-rag-recipe.md",
-    "Food/Recipes/one-pan-roasted-chicken-and-sweet-potatoes-recipe.md",
-    "Food/Recipes/homemade-chicken-shawarma-with-ben-stiller-and-ahmed-badr-recipe.md",
-    "Food/Recipes/chipotles-chicken-recipe.md",
-    "Food/Recipes/low-carb-zucchini-ravioli-recipe.md",
-    "Food/Recipes/chili-lime-baked-tilapia-with-avocado-crema-recipe.md",
-    "Food/Recipes/taco-stuffed-peppers-recipe.md",
-    "Food/Recipes/garlic-shrimp-scampi-recipe.md",
-    "Food/Recipes/original-orange-chicken-by-panda-express-recipe.md",
     "Food/Recipes/zucchini-enchiladas-recipe.md",
-    "Food/Recipes/sheet-tray-fajitas-rice-bowl-recipe.md",
+    "Food/Recipes/two-faced-avocado-toast-gemini-recipe-by-tasty.md",
+    "Food/Recipes/taco-stuffed-peppers-recipe.md",
+    "Food/Recipes/sweet-potato-gingerbread-winter-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/sweet-potato-breakfast-boats-recipe-by-tasty.md",
+    "Food/Recipes/sweet-potato-avocado-toast-recipe-by-tasty.md",
+    "Food/Recipes/strawberry-banana-smoothie-meal-prep-recipe-by-tasty.md",
+    "Food/Recipes/strawberry-banana-raspberry-freezer-prep-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/chicken-tortilla-soup-recipe.md",
     "Food/Recipes/chicken-ranch-wrap-recipe.md",
-    "Food/Recipes/cilantro-lime-chicken-veggie-rice-meal-prep-recipe.md",
-    "Food/Recipes/keto-bacon-cauliflower-mac-n-cheese-recipe.md",
-    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-3.md",
-    "Food/Meal Plans/weekly-meal-plan-2026-07-21-3.md",
-    "Food/002-Banana-Bread.md",
-    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-2.md",
-    "Shopping Lists",
-    "Meal Plans",
-    "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
-    "Love/Noah Alessandro/Guarderia-Imss/assets",
-    "Food/Recipes/Shopping Lists",
+    "Food/Recipes/cheesy-egg-toast-perfect-for-breakfast-recipe-by-tasty.md",
+    "Food/Recipes/breakfast-taco-cups-recipe-by-tasty.md",
+    "Food/Recipes/breakfast-pizza-boats-recipe-by-tasty.md",
+    "Food/Recipes/breakfast-bell-peppers-recipe-by-tasty.md",
+    "Food/Recipes/blt-recipe-by-tasty.md",
+    "Food/Recipes/beans-rice-cheese-burritos-recipe-by-tasty.md",
+    "Food/Recipes/banana-matcha-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/baked-avocado-eggs-recipe-by-tasty.md",
+    "Food/Recipes/bacon-egg-cups-recipe-by-tasty.md",
+    "Food/Meal Plans",
     "Home/Jardin/assets/Pasted image 20260720152849.png",
+    "Home/Jardin/assets/Pasted image 20260720152403.png",
     "Home/Jardin/assets/Pasted image 20260720152703.png",
     "Home/Jardin/assets/Pasted image 20260720152418.png",
-    "Home/Jardin/assets/Pasted image 20260720152403.png",
     "Home/Jardin/assets/Pasted image 20260720152312.png",
     "Home/Jardin/assets",
-    "Home/Jardin/Untitled",
     "Home/Jardin",
-    "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
+    "Food/Recipes/Shopping Lists",
+    "Food/Recipes",
+    "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
+    "Love/Noah Alessandro/Guarderia-Imss/assets",
+    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
+    "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
     "Love/Noah Alessandro/assets/Pasted image 20260513201933.png",
     "Love/Noah Alessandro/assets/Pasted image 20260513201927.png",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
-    "Love/Pregnancy/assets/Pasted image 20260509103724.png"
+    "Toonchavez.dev/assets/Pasted image 20260205211312.png",
+    "Toonchavez.dev/assets/Pasted image 20260205164945.png"
   ]
 }
