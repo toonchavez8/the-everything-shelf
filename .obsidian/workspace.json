@@ -54,8 +54,21 @@
               "icon": "lucide-file",
               "title": "weekly-shopping-list-2026-07-22-2"
             }
+          },
+          {
+            "id": "d18c6cdfc4a3a829",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ines-Registro-Noah"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22-2.md",
+                "file": "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of weekly-shopping-list-2026-07-22-2"
+              "title": "Outline of Ines-Registro-Noah"
             }
           },
           {
@@ -238,8 +251,9 @@
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "e0813d361050a831",
+  "active": "d18c6cdfc4a3a829",
   "lastOpenFiles": [
+    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
     "Food/Recipes/hearty-zuppa-toscana-recipe.md",
     "Food/Meal Plans/weekly-meal-plan-2026-07-22-2.md",
     "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
@@ -267,7 +281,6 @@
     "Food/Recipes/beans-rice-cheese-burritos-recipe-by-tasty.md",
     "Food/Recipes/banana-matcha-smoothie-recipe-by-tasty.md",
     "Food/Recipes/baked-avocado-eggs-recipe-by-tasty.md",
-    "Food/Recipes/bacon-egg-cups-recipe-by-tasty.md",
     "Food/Meal Plans",
     "Home/Jardin/assets/Pasted image 20260720152849.png",
     "Home/Jardin/assets/Pasted image 20260720152403.png",
