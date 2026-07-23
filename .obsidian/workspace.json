@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc141593cb727c0c",
+        "id": "2808ec0c680ac424",
         "type": "tabs",
         "children": [
           {
-            "id": "01dcdcb205857e6c",
+            "id": "ab5c16d70e9f036d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 260.5
   },
   "right": {
     "id": "63666fcef843a639",
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Pregnancy/04-Parto.md",
+                "file": "Japan-dev/Moving-to-Japan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04-Parto"
+              "title": "Outline of Moving-to-Japan"
             }
           }
         ],
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,53 +194,52 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "01dcdcb205857e6c",
+  "active": "ab5c16d70e9f036d",
   "lastOpenFiles": [
+    "Love/Pregnancy/03-Mesa-de-Regalo.md",
     "Love/Pregnancy/assets/Pasted image 20260509103724.png",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
+    "Love/Pregnancy/assets/Pasted image 20260502100751.png",
+    "Love/Pregnancy/assets/Estudio_Pañales_Desechables-Septiembre_2011.pdf",
+    "Love/Pregnancy/assets",
     "Love/Pregnancy/Seguro/Informe Medico Laura Cristina Uribe Vargas.pdf",
     "Love/Pregnancy/Seguro/CARTA VERACIDAD.pdf",
     "Love/Pregnancy/Seguro/AVISO DE ACCIDENTE Y O ENFERMEDAD.pdf",
     "Love/Pregnancy/Seguro",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_4.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_OB.PDF",
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura",
+    "Love/Pregnancy/Echo",
+    "Love/Pregnancy/04-Parto.md",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
     "Love/Noah Alessandro/Guarderia-Imss",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura-Echo.zip",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura.zip",
-    "Love/Pregnancy/Informe Medico Laura Cristina Uribe Vargas.pdf",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_2.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_OB.PDF",
-    "Love/Pregnancy/03-Mesa-de-Regalo.md",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_4.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura",
-    "Love/Pregnancy/04-Parto.md",
     "Love/Noah Alessandro/Cuidados/02-Pañales.md",
     "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
-    "Love/Pregnancy/02-Preguntas.md",
-    "HomeServer/Untitled.md",
     "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-    "Home/01-Cotizaciones-agua.md",
-    "Food/002-Banana-Bread.md",
     "conflict-files-obsidian-git.md",
-    "Carro/00-Datos-de-Carros.md",
-    "Coto/001-Junta-abril-06.md",
-    "Carro/01- Bitacora de Matenimiento.md",
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
-    "Love/Pregnancy/01-BabyShower.md",
-    "Food/003-Tortillas de harina.md",
-    "Toonchavez.dev/Ai-presentation.md",
-    "Toonchavez.dev/spliter.md",
+    "Japan-dev/Moving-to-Japan.md",
     "Japan-dev/001-Comprehensive-guide.md",
+    "Japan-dev/Jobs.md",
+    "Home/01-Cotizaciones-agua.md",
+    "Love/Pregnancy/02-Preguntas.md",
+    "Love/Pregnancy/01-BabyShower.md",
+    "Toonchavez.dev/Ai-presentation.md",
+    "Coto/001-Junta-abril-06.md",
+    "Love/Pregnancy/Baby-Shower-Sheet.md",
+    "Carro/01- Bitacora de Matenimiento.md",
+    "Carro/00-Datos-de-Carros.md",
+    "Food/003-Tortillas de harina.md",
+    "Toonchavez.dev/spliter.md",
     "Japan-dev/Guides/Essential Japanese for Software Engineers.md",
     "Japan-dev/Guides/00-Japan-import-guide.md",
-    "Japan-dev/Jobs.md",
-    "Japan-dev/Moving-to-Japan.md",
-    "HomeServer/N8n/01-Setup-on-prem.md"
+    "HomeServer/N8n/01-Setup-on-prem.md",
+    "Design/01-Pupusas-flyer.md",
+    "Toonchavez.dev/02-MicroSass/00-CleckStack.md"
   ]
 }
