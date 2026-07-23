@@ -13,26 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love/Pregnancy/04-Parto.md",
+                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-Parto"
+              "title": "weekly-shopping-list-2026-07-23"
             }
           },
           {
-            "id": "8c0d4435288468a0",
+            "id": "31857895fa647886",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "My Jar"
+            }
+          },
+          {
+            "id": "5f01fc72e2891e15",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-meal-planner",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Meal planner"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "383137e1b0c3b31a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef6a3c073afeac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Food/Meal Plans/weekly-meal-plan-2026-07-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "weekly-meal-plan-2026-07-23"
+            }
+          },
+          {
+            "id": "a6a4ce84c13f3f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Meal Plans/weekly-meal-plan-2026-07-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "weekly-meal-plan-2026-07-23"
             }
           }
         ],
@@ -196,6 +237,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "recipe-jar:Recipe Jar": false,
       "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -209,9 +251,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8c0d4435288468a0",
+  "active": "5f01fc72e2891e15",
   "lastOpenFiles": [
+    "Food/Recipes/strawberry-banana-chia-seed-pudding-recipe-by-tasty.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-07-23.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-23.md",
+    "Food/Recipes/make-ahead-breakfast-quesadilla-recipe-by-tasty.md",
+    "Food/Recipes/molletes-de-frijoles-y-queso.md",
+    "Food/Recipes/sheet-tray-fajitas-rice-bowl-recipe.md",
+    "Food/Recipes/zucchini-enchiladas-recipe.md",
+    "Food/Recipes/strawberry-banana-raspberry-freezer-prep-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/two-faced-avocado-toast-gemini-recipe-by-tasty.md",
+    "Food/Recipes/one-pot-pesto-chicken-pasta-recipe.md",
+    "Food/Recipes/enchiladas-verdes.md",
     "Love/Pregnancy/04-Parto.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
     "conflict-files-obsidian-git.md",
     "Love/Pregnancy/Seguro/0000000060_TARJ_URIBEVARGASLAURA CRISTINA_GMG-18787.pdf",
     "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
@@ -241,20 +295,8 @@
     "Home/Automatizaciones/03-Modelo-de-Negocio-Medicion-de-Agua.md",
     "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
     "Home/Automatizaciones/01-Medicion-de-Agua.md",
-    "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
     "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
-    "Food/Recipes/zucchini-enchiladas-recipe.md",
-    "Food/Recipes/two-faced-avocado-toast-gemini-recipe-by-tasty.md",
     "Food/Recipes/torrejas-mexican-french-toast.md",
-    "Food/Recipes/the-easiest-migas-recipe.md",
-    "Food/Recipes/taco-stuffed-peppers-recipe.md",
-    "Food/Recipes/sweet-potato-waffle-breakfast-sandwich.md",
-    "Food/Recipes/sweet-potato-gingerbread-winter-smoothie-recipe-by-tasty.md",
-    "Food/Recipes/sweet-potato-breakfast-boats-recipe-by-tasty.md",
-    "Food/Recipes/sweet-potato-avocado-toast-recipe-by-tasty.md",
-    "Food/Recipes/strawberry-banana-smoothie-meal-prep-recipe-by-tasty.md",
-    "Food/Recipes/strawberry-banana-raspberry-freezer-prep-smoothie-recipe-by-tasty.md",
-    "Food/Recipes/strawberry-banana-chia-seed-pudding-recipe-by-tasty.md",
     "Love/Pregnancy/assets/Pasted image 20260509103724.png",
     "Love/Pregnancy/assets/Pasted image 20260502100751.png"
   ]
