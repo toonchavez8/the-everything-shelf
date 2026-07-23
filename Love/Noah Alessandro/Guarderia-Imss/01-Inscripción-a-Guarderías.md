@@ -34,3 +34,7 @@
       
       
       https://www.imss.gob.mx/tramites/imss01006
+      
+      
+      
+      ![[{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png]]

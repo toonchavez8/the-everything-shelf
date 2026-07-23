@@ -13,5 +13,7 @@
   "convert-url-to-iframe",
   "simple-table-math",
   "sheet-plus",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "better-export-pdf",
+  "recipe-jar"
 ]

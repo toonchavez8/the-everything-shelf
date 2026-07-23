@@ -764,6 +764,8 @@ nmZ
 ntV
 nJ
 nocturnas
+nacimiento
+necesitan
 vault
 vocabulary
 viajar
@@ -1668,6 +1670,7 @@ sandalias
 salida
 sanitarias
 snacks
+sacan
 try
 this
 the
@@ -2586,6 +2589,7 @@ dejen
 dicos
 dientes
 dental
+deberia
 and
 alquiler
 arrendador
@@ -2907,6 +2911,7 @@ acondicionador
 adulto
 acompa
 ante
+adicionales
 make
 mensual
 makes
@@ -3168,6 +3173,7 @@ moda
 medas
 manta
 multicontacto
+maleta
 Casa
 Currency
 Conversion
@@ -3458,6 +3464,7 @@ Cepillo
 Cobijita
 Cambio
 Considerar
+Chapalita
 en
 el
 estuvo
@@ -3752,6 +3759,8 @@ efectivo
 esterilizados
 estancia
 extensi
+estadia
+evitar
 Distrito
 DR
 Developer
@@ -5769,6 +5778,7 @@ SyQ
 Studio
 Snacks
 Separar
+Santa
 but
 barrier
 basic
@@ -6382,6 +6392,10 @@ corporal
 ces
 cargador
 carpeta
+cosas
+cesaria
+cobros
+cessaria
 with
 work
 when
@@ -6727,6 +6741,8 @@ lactancia
 liga
 leche
 ligeros
+llevarme
+llevar
 Knowing
 Key
 Know
@@ -8149,6 +8165,7 @@ HuV
 Hj
 HpHV
 Higiene
+Hospital
 Quality
 Quantity
 Quedar
@@ -8265,6 +8282,7 @@ QIy
 QuK
 QeK
 Qqn
+Que
 Familiarity
 Fix
 Feature

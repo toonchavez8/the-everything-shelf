@@ -13,15 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home/01-Cotizaciones-agua.md",
+                "file": "Love/Pregnancy/05-Preguntas-Parto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Cotizaciones-agua"
+              "title": "05-Preguntas-Parto"
+            }
+          },
+          {
+            "id": "42662dbf0108e058",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "My Jar"
+            }
+          },
+          {
+            "id": "1416149327bf5db1",
+            "type": "leaf",
+            "state": {
+              "type": "recipe-jar-meal-planner",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Meal planner"
+            }
+          },
+          {
+            "id": "2e85d6e4f934daae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "brazilian-lemonade-cocktail-recipe-by-tasty"
+            }
+          },
+          {
+            "id": "51525f24bea44c4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home/01-Cotizaciones-agua.md",
+            "file": "Love/Pregnancy/05-Preguntas-Parto.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,6 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "recipe-jar:Recipe Jar": false,
       "sheet-plus:Create excel file": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -178,8 +224,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6ab70a1c46aaed11",
+  "active": "51525f24bea44c4b",
   "lastOpenFiles": [
+    "Food/Meal Plans/weekly-meal-plan-2026-07-21-2.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-21-2.md",
+    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+    "Love/Pregnancy/05-Preguntas-Parto.md",
+    "Food/Recipes/brazilian-lemonade-cocktail-recipe-by-tasty.md",
+    "Home/01-Cotizaciones-agua.md",
     "Love/Pregnancy/01-BabyShower.md",
     "Home/pdfs/COT 107 - MIGUEL CHAVEZ PROPUESTA 2 .pdf",
     "Home/assets/Pasted image 20260414133459.png",
@@ -215,15 +267,10 @@
     "/Home/assets/Pasted image 20260130122753.png",
     "/Japan-dev/001-Comprehensive-guide.md",
     "Japan-dev/001-Comprehensive-guide.md",
-    "Home/01-Cotizaciones-agua.md",
     "/Japan-dev/Jobs.md",
     "spliter.md",
     "Food/002-Banana-Bread.md",
     "Design/01-Pupusas-flyer.md",
-    "/Food/Pregnancy-cooking/001-Dieta.md",
-    "/Food/002-Banana-Bread.md",
-    "/Design/01-Pupusas-flyer.md",
-    "Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md",
-    "/Toonchavez.dev/001-ClassflowHub/01_CLFW_ProjectSheet.md"
+    "/Food/Pregnancy-cooking/001-Dieta.md"
   ]
 }
