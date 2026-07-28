@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Biberones"
             }
+          },
+          {
+            "id": "bf81451557155f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Love/Noah Alessandro/Compras/Biberones.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Biberones"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           }
         ],
@@ -208,52 +222,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "3edfbc015eee348b",
+  "active": "bf81451557155f06",
   "lastOpenFiles": [
     "Love/Noah Alessandro/Compras/Biberones.md",
     "conflict-files-obsidian-git.md",
+    "Love/Noah Alessandro/Guarderia-Imss/assets/{F74B3DED-3A9B-4877-80B8-B070F23C1658}.png",
+    "Love/Noah Alessandro/Guarderia-Imss/assets",
+    "Love/Noah Alessandro/Documentos/01-notes.md",
+    "Love/Noah Alessandro/Documentos",
+    "Home/PCs/Pc-Specs-Cristy.md",
+    "Home/PCs/Cristy PC -upgrades.md",
+    "Home/PCs",
+    "Home/Jardin/assets/Pasted image 20260720152703.png",
+    "Home/Jardin/assets/Pasted image 20260720152849.png",
+    "Home/Jardin/assets/Pasted image 20260720152403.png",
+    "Home/Jardin/assets/Pasted image 20260720152418.png",
+    "Home/Jardin/assets/Pasted image 20260720152312.png",
+    "Home/Jardin/assets",
+    "Home/Jardin/01-Controlar-bambu.md",
+    "Home/Jardin",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-23.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
+    "Food/Shopping Lists",
+    "Food/Recipes/Shopping Lists/shopping-list-2026-07-20.md",
+    "Food/Recipes/zucchini-enchiladas-recipe.md",
+    "Food/Recipes/two-faced-avocado-toast-gemini-recipe-by-tasty.md",
+    "Food/Recipes/torrejas-mexican-french-toast.md",
+    "Food/Recipes/the-easiest-migas-recipe.md",
+    "Food/Recipes/taco-stuffed-peppers-recipe.md",
+    "Food/Recipes/sweet-potato-waffle-breakfast-sandwich.md",
+    "Food/Recipes/sweet-potato-gingerbread-winter-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/sweet-potato-breakfast-boats-recipe-by-tasty.md",
+    "Food/Recipes/sweet-potato-avocado-toast-recipe-by-tasty.md",
+    "Food/Recipes/strawberry-banana-smoothie-meal-prep-recipe-by-tasty.md",
+    "Food/Recipes/spinach-quesadilla-recipe.md",
+    "Food/Recipes/strawberry-banana-raspberry-freezer-prep-smoothie-recipe-by-tasty.md",
+    "Food/Recipes/strawberry-banana-chia-seed-pudding-recipe-by-tasty.md",
+    "Food/Recipes/shrimp-and-avocado-taco-salad-recipe.md",
+    "Food/Recipes/Shopping Lists",
+    "Food/Recipes/sheet-tray-fajitas-rice-bowl-recipe.md",
+    "Food/Recipes/queso-fundido.md",
+    "Food/Recipes/potato-flower-breakfast-cups-recipe-by-tasty.md",
+    "Food/Recipes",
+    "Food/Meal Plans",
     "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
-    "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
-    "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
-    "Carro/00-Datos-de-Carros.md",
-    "Excel 2026-06-15 21.09.18.univer.md",
-    "Love/Pregnancy/Seguro/0000000060_TARJ_CHAVEZURIBENOAH ALESSANDRO_GMG-18787 (1).pdf",
-    "Love/Pregnancy/Seguro/0000000060_CERT_CHAVEZURIBENOAH ALESSANDRO_GMG-18787.pdf",
-    "Love/Pregnancy/04-Parto.md",
-    "Love/Noah Alessandro/Tramites/Formatos/Formato Acta de nacimiento.documentos_tramites_requisitos_20250226101443.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/Acta_de_Nacimiento_Cristy.pdf",
-    "Love/Noah Alessandro/Tramites/Documetos/ActaNacimiento_Miguel.pdf",
-    "Love/Noah Alessandro/Tramites/Formatos",
-    "Love/Noah Alessandro/Tramites/Documetos",
-    "Love/Noah Alessandro/Tramites/01-Registro-de-nacimiento.md",
-    "Love/Noah Alessandro/Compras/01 primer etapa.md",
-    "HomeServer/01-HomeServer-MVP-Self-Hosted-Guide.md",
-    "HomeServer/01-HomeServer-Development-Plan.md",
-    "Home/Automatizaciones/03-Modelo-de-Negocio-Medicion-de-Agua.md",
-    "Home/Automatizaciones/02-Medicion-de-Gas-Estacionario.md",
-    "Home/Automatizaciones/01-Medicion-de-Agua.md",
     "Love/Pregnancy/assets/Pasted image 20260509103724.png",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_9.JPG",
     "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_10.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_2.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_3.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_5.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_6.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_7.JPG",
-    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_8.JPG",
-    "Love/Pregnancy/03-Mesa-de-Regalo.md",
-    "Love/Noah Alessandro/Cuidados/02-Pañales.md",
-    "Love/Noah Alessandro/Cuidados/01-Cordon-umbilical.md",
-    "Love/Pregnancy/02-Preguntas.md",
-    "HomeServer/Untitled.md",
-    "Love/Noah Alessandro/01-Session-fotos-Recien-Nacido.md",
-    "Home/01-Cotizaciones-agua.md",
-    "Food/002-Banana-Bread.md",
-    "Coto/001-Junta-abril-06.md",
-    "Carro/01- Bitacora de Matenimiento.md",
-    "Love/Pregnancy/Baby-Shower-Sheet.md",
-    "Love/Pregnancy/01-BabyShower.md"
+    "Love/Pregnancy/Echo/27112025-085627_Uribe Vargas_Laura/27112025-085627_20260504182456_1.JPG"
   ]
 }

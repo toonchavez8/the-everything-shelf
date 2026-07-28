@@ -1,0 +1,10 @@
+{
+  "recipeFolder": "Food/Recipes",
+  "mealPlanFolder": "Food/Meal Plans",
+  "shoppingListFolder": "Food/Shopping Lists",
+  "enableInstagramFetch": true,
+  "excludeCondimentsFromShoppingList": true,
+  "convertProteinsToMetric": true,
+  "defaultPlanServings": 2,
+  "maxRecipeRepeatsPerPlan": 3
+}
