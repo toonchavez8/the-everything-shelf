@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Biberones"
             }
-          },
-          {
-            "id": "0da2fa3baf16a461",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://pigeonlatam.com/productos/biberon-de-plastico-boca-ancha-softouch/",
-                "title": "Biberón de Plástico Boca Ancha SofTouch - Productos",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Biberón de Plástico Boca Ancha SofTouch - Productos"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Love/Noah Alessandro/Compras/Biberones.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Biberones"
             }
           }
         ],
@@ -221,10 +208,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "0da2fa3baf16a461",
+  "active": "3edfbc015eee348b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Love/Noah Alessandro/Compras/Biberones.md",
+    "conflict-files-obsidian-git.md",
     "Love/Noah Alessandro/El-Primer-Ano-con-mi-Bebe-Kinedu.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/directorio-guarderias-2025.pdf",
     "Love/Noah Alessandro/Guarderia-Imss/01-Inscripción-a-Guarderías.md",
