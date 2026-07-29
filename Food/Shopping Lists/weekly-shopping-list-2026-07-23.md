@@ -8,15 +8,15 @@ createdAt: "2026-07-23T03:11:12.426Z"
 
 ## Produce
 
-- [ ] 5 limones
-- [ ] 4 calabacitas
-- [ ] 4 manzanas rojas/amarilla
-- [ ] bolsa spinach
-- [ ] 4 bananas
+- [x] 5 limones
+- [x] 4 calabacitas
+- [x] 4 manzanas rojas/amarilla
+- [x] bolsa spinach
+- [x] 4 bananas
 - [ ] 1/4 o 1/2 kg de zarzamora
-- [ ] 1 kg de tomate verde
-- [ ] 4 avocados
-- [ ] 6 peras
+- [x] 1 kg de tomate verde
+- [x] 4 avocados
+- [x] 6 peras
 
 ## Protein
 
