@@ -23,14 +23,14 @@ Las tetinas Pigeon SoftTouch se clasifican por etapa: **SS** (0+ meses), **S*
 
 **Tabla 1. Comparación de tetinas Pigeon (Wide Neck).**
 
-|Tetina|Edad aprox.|Flujo|Orificio/corte|Compatible con biberones|Reemplazo (aprox.)|
-|---|---|---|---|---|---|
-|**SS**|0+ meses|Extra-lento|Redondo|Pigeon wide-neck (SoftTouch, etc.)|C/ 2–3 meses o al desgaste|
-|**S**|0–3 meses|Lento|Redondo|Igual que SS|C/ 2–3 meses|
-|**M**|3–6 meses|Medio|Corte “Y” (variable)|Igual, soft-touch wide-neck|C/ 2–3 meses|
-|**L**|6–9 meses|Rápido|Corte “Y”|Igual|C/ 2–3 meses|
-|**LL**|9–15 meses|Extra-rápido (anticólicos)|Orificio dual*|Igual|C/ 2–3 meses|
-|**LLL**|15+ meses|Máximo (líquidos espesos)|Orificio grande|Igual (uso limitado a 15 m+)|C/ 2–3 meses (si se usa)|
+| Tetina  | Edad aprox. | Flujo                      | Orificio/corte       | Compatible con biberones           | Reemplazo (aprox.)         |
+| ------- | ----------- | -------------------------- | -------------------- | ---------------------------------- | -------------------------- |
+| **SS**  | 0+ meses    | Extra-lento                | Redondo              | Pigeon wide-neck (SoftTouch, etc.) | C/ 2–3 meses o al desgaste |
+| **S**   | 0–3 meses   | Lento                      | Redondo              | Igual que SS                       | C/ 2–3 meses               |
+| **M**   | 3–6 meses   | Medio                      | Corte “Y” (variable) | Igual, soft-touch wide-neck        | C/ 2–3 meses               |
+| **L**   | 6–9 meses   | Rápido                     | Corte “Y”            | Igual                              | C/ 2–3 meses               |
+| **LL**  | 9–15 meses  | Extra-rápido (anticólicos) | Orificio dual*       | Igual                              | C/ 2–3 meses               |
+| **LLL** | 15+ meses   | Máximo (líquidos espesos)  | Orificio grande      | Igual (uso limitado a 15 m+)       | C/ 2–3 meses (si se usa)   |
 
 *LL tiene sistema anti-cólicos, flujo muy amplio; **corte dual** implica válvula de aire y de leche.
 
