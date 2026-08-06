@@ -40,6 +40,8 @@ lastCooked: ""
 - 2 Cucharadas de Jugo MAGGI®
 - 1 Cucharada de Salsa Tipo Inglesa CROSSE & BLACKWELL®
 - 2 Cucharadas de cebolla finamente picada
+- 2 zanahorias
+- 2 papas
 
 ## Steps
 

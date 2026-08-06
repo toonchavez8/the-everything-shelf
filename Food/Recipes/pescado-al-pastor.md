@@ -33,6 +33,8 @@ lastCooked: ""
 - 1 Taza de Piña miel
 - 4 Rabos de Cebolla
 - 2 Limones
+- 4 calabacitas
+- 4 zanahorias
 
 ## Steps
 

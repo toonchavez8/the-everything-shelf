@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "9f754bcd420b720a",
+            "id": "c701ed0f285536bc",
             "type": "leaf",
             "state": {
               "type": "recipe-jar-meal-planner",
@@ -28,63 +28,49 @@
             }
           },
           {
-            "id": "d22be2c9ec79423b",
+            "id": "88ec0844d9078fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
+                "file": "Food/Meal Plans/weekly-meal-plan-2026-08-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weekly-shopping-list-2026-07-22"
+              "title": "weekly-meal-plan-2026-08-06"
             }
           },
           {
-            "id": "963e630d1a7103ac",
+            "id": "358108405c6a45c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Shopping Lists/weekly-shopping-list-2026-07-22-2.md",
+                "file": "Food/001-Cinnemon-Rolls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weekly-shopping-list-2026-07-22-2"
+              "title": "001-Cinnemon-Rolls"
             }
           },
           {
-            "id": "d18c6cdfc4a3a829",
+            "id": "d9f0d3117087e2c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food/Recipes/make-ahead-breakfast-quesadilla-recipe-by-tasty.md",
+                "file": "Food/Meal Plans/weekly-meal-plan-2026-08-06-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "make-ahead-breakfast-quesadilla-recipe-by-tasty"
-            }
-          },
-          {
-            "id": "8cb5784978db8efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Carro/00-Datos-de-Carros.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00-Datos-de-Carros"
+              "title": "weekly-meal-plan-2026-08-06-2"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carro/00-Datos-de-Carros.md",
+                "file": "Food/Meal Plans/weekly-meal-plan-2026-08-06-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -269,10 +255,20 @@
       "recipe-jar:Recipe Jar": false
     }
   },
-  "active": "8cb5784978db8efd",
+  "active": "d9f0d3117087e2c2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-08-06-2.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-08-06-2.md",
+    "Food/001-Cinnemon-Rolls.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-08-06.md",
+    "Food/Recipes/pollo-oriental-con-verduras.md",
+    "Food/Meal Plans/weekly-meal-plan-2026-08-06.md",
+    "Food/Recipes/alb-ndigas-receta-caseras-en-salsa-de-chipotle.md",
+    "Food/Recipes/pescado-al-pastor.md",
+    "Food/Shopping Lists/weekly-shopping-list-2026-07-22.md",
+    "Food/Recipes/make-ahead-breakfast-quesadilla-recipe-by-tasty.md",
     "Carro/00-Datos-de-Carros.md",
+    "conflict-files-obsidian-git.md",
     "Food/Recipes/tostadas-de-rajas-con-reques-n.md",
     "Food/Recipes/tortitas-de-papa-con-verduras.md",
     "Food/Recipes/tortitas-de-camar-n-con-mole.md",
@@ -283,20 +279,10 @@
     "Food/Recipes/s-ndwich-de-pollo-a-las-finas-hierbas.md",
     "Food/Recipes/recetas-de-pescado-en-salsa-de-cilantro.md",
     "Food/Recipes/recetas-con-salchichas-y-huevo-revuelto.md",
-    "Food/Recipes/pollo-oriental-con-verduras.md",
     "Food/Recipes/picadillo-de-res-f-cil-para-comida-casera-mexicana.md",
     "Food/Recipes/pescado-empapelado.md",
-    "Food/Recipes/pescado-al-pastor.md",
     "Food/Recipes/pechuga-de-pollo-con-guacamole.md",
     "Food/Recipes/pan-franc-s.md",
-    "Food/Recipes/omelette-de-espinaca-con-queso-panela.md",
-    "Food/Recipes/machaca-con-huevo-entomatado.md",
-    "Food/Recipes/licuado-de-manzana-canela.md",
-    "Food/Recipes/hot-cakes-de-avena.md",
-    "Food/Recipes/enfrijoladas-2.md",
-    "Food/Recipes/enchiladas-verdes-2.md",
-    "Food/Recipes/coditos-de-at-n-con-mango.md",
-    "Food/Recipes/chiles-rellenos-de-queso-panela.md",
     "Love/Noah Alessandro/Tramites/Documetos/Ines-Registro-Noah.pdf",
     "Love/Noah Alessandro/Documentos/Solicitud_1740816417.pdf",
     "Love/Noah Alessandro/Documentos/comprobanteNSS (1).pdf",

@@ -48,6 +48,7 @@ lastCooked: 2026-08-05T21:44:14.379Z
 - 1/2 Pimiento morrón
 - 1 Taza de Cacahuates
 - 10 Ramitas de Cebollín fresco
+- 300 g de coliflor
 
 ## Steps
 
